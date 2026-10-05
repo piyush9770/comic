@@ -1,0 +1,2155 @@
+
+{
+"chapter": {
+"chapter_id": "CHAPTER_01",
+"chapter_title": "क्लाउड्स एंड क्लिफ",
+"format": "16:9",
+"memory": {
+"characters": {
+"yun_che": {
+"canonical_name": "युन चे",
+"source_names": ["Yun Che"],
+"visual_tags": "1boy, young man, long black hair, black eyes, black robe",
+"description": "युवा पुरुष, लंबे काले बाल, काली आँखें और काले वस्त्र। वर्तमान में गंभीर रूप से घायल, रक्त से सना हुआ और अत्यधिक थका हुआ।",
+"relationships": {
+"master": "गुरु",
+"parents": "अज्ञात जैविक माता-पिता"
+}
+},
+"master": {
+"canonical_name": "गुरु",
+"source_names": [],
+"visual_tags": "1man, elderly healer, long gray hair, wise face, traditional dark robe",
+"description": "युन चे के गुरु और महान चिकित्सा-कला विशेषज्ञ।",
+"relationships": {
+"student": "युन चे"
+}
+}
+},
+"locations": {
+"clouds_end_cliff": {
+"canonical_name": "क्लाउड्स एंड क्लिफ",
+"source_names": ["Clouds End Cliff"],
+"description": "मिथकीय निवास पर्वत पर स्थित अथाह और घातक खाई, जिसे मृत्यु देवता की कब्र कहा जाता है।"
+},
+"mythical_residence_mountain": {
+"canonical_name": "मिथकीय निवास पर्वत",
+"source_names": [],
+"description": "क्लाउड्स एंड क्लिफ का पर्वतीय क्षेत्र।"
+},
+"azure_cloud_continent": {
+"canonical_name": "एज़्योर क्लाउड महाद्वीप",
+"source_names": ["Azure Cloud Continent"],
+"description": "वह महाद्वीप जहाँ यह घटना घटित होती है।"
+}
+},
+"objects": {
+"sky_poison_pearl": {
+"canonical_name": "स्काई पॉइज़न पर्ल",
+"source_names": ["Sky Poison Pearl"],
+"description": "जेड-हरे रंग का गोल पवित्र मोती, एज़्योर क्लाउड महाद्वीप की नंबर एक पवित्र वस्तु। अत्यंत विषैला, लेकिन औषधि बनाने में सक्षम।"
+},
+"silver_pendant": {
+"canonical_name": "चाँदी का लॉकेट",
+"source_names": [],
+"description": "युन चे के पास जन्म से मौजूद एकमात्र वस्तु।"
+}
+},
+"relationships": {
+"युन चे_गुरु": "गुरु और शिष्य",
+"गुरु_युन चे": "गुरु ने युन चे को चिकित्सा-कला सिखाई और उसका पालन-पोषण किया",
+"युन चे_धर्मी संप्रदाय": "गुरु की हत्या के कारण गहरी शत्रुता",
+"युन चे_जैविक माता-पिता": "अज्ञात"
+},
+"timeline": {
+"past": "गुरु ने कुछ दिनों के नवजात युन चे को पाया और उसका नाम युन चे रखा।",
+"seven_years_ago": "स्काई पॉइज़न पर्ल की खबर फैलने के बाद धर्मी संप्रदायों ने गुरु की हत्या कर दी।",
+"following_seven_years": "युन चे ने चिकित्सा-कला छोड़कर स्काई पॉइज़न पर्ल के विष को अपने भीतर समाहित किया और उस पर नियंत्रण हासिल किया।",
+"recent": "दस दिनों से भी कम समय में उसका विष हजारों मील तक फैल गया और उसने पूरे महाद्वीप में भय पैदा किया।",
+"present": "युन चे को शक्तिशाली लोगों की विशाल भीड़ ने क्लाउड्स एंड क्लिफ के किनारे घेर लिया। उसने स्काई पॉइज़न पर्ल निगला और खाई में छलांग लगा दी।"
+},
+"story_progress": {
+"current": "युन चे क्लाउड्स एंड क्लिफ की अथाह गहराइयों में गिर रहा है।",
+"major_events": [
+"युन चे को विशाल शक्तिशाली भीड़ ने घेरा।",
+"भीड़ ने स्काई पॉइज़न पर्ल की मांग की।",
+"युन चे ने अपने गुरु की हत्या का बदला न ले पाने पर क्रोध व्यक्त किया।",
+"युन चे ने स्काई पॉइज़न पर्ल निगल लिया।",
+"स्काई पॉइज़न पर्ल की हरी शक्ति उसके शरीर से निकलने लगी।",
+"युन चे ने अपनी अंतिम शक्ति से खाई में छलांग लगा दी।",
+"युन चे अंधेरी खाई में गिरता चला गया।"
+]
+},
+"name_aliases": {
+"Yun Che": "युन चे",
+"Clouds End Cliff": "क्लाउड्स एंड क्लिफ",
+"Sky Poison Pearl": "स्काई पॉइज़न पर्ल",
+"Azure Cloud Continent": "एज़्योर क्लाउड महाद्वीप"
+}
+},
+"scenes": [
+{
+"scene_id": "SCENE_01",
+"scene_type": "PRESENT",
+"panels": [
+{
+"panel_id": "PANEL_01",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "मिथकीय निवास पर्वत पर स्थित क्लाउड्स एंड क्लिफ, एज़्योर क्लाउड महाद्वीप के चार सबसे घातक क्षेत्रों में से सबसे भयानक था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, colossal mountain range, enormous cliff, gigantic abyss, jagged dark rocks, endless depth, ancient dangerous landscape, thick mountain mist, ominous clouds, vast scale, epic environment, 16:9",
+"negative_prompt": "worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad hands, extra fingers, extra arms, extra legs, fused fingers, duplicate, cropped, out of frame, text, watermark, signature, 3d, realistic, chibi, modern architecture",
+"camera": "extreme wide aerial shot",
+"motion": [
+"mountain mist drifting slowly",
+"dark clouds moving across the sky"
+],
+"visual_effects": [
+"dense mountain mist",
+"dark atmospheric haze"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_02",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "क्लाउड्स एंड क्लिफ को अक्सर मृत्यु देवता की कब्र कहा जाता था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, colossal black cliff, bottomless abyss, vertical rock walls, black mist, ominous mountain clouds, deathly atmosphere, ancient forbidden region, terrifying landscape, no characters",
+"negative_prompt": "worst quality, low quality, lowres, blurry, jpeg artifacts, text, watermark, signature, 3d, realistic, chibi, modern buildings, people",
+"camera": "high-angle establishing shot",
+"motion": [
+"mist flowing through abyss",
+"clouds drifting slowly"
+],
+"visual_effects": [
+"dark abyss haze",
+"heavy atmospheric fog"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_03",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "अनगिनत वर्षों के दौरान इस खाई से नीचे गिरने वाले लोगों की संख्या गिनना भी असंभव था। उनमें से एक भी जीवित नहीं बचा था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, bottomless abyss, countless indistinct silhouettes falling into darkness, ancient cliff, swirling black mist, enormous vertical scale, terrifying depth, no survivors, ominous atmosphere",
+"negative_prompt": "worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, duplicate, text, watermark, signature, 3d, realistic, chibi, wings, flying upward, rescue",
+"camera": "extreme downward aerial shot",
+"motion": [
+"mist rushing downward",
+"distant silhouettes disappearing into darkness"
+],
+"visual_effects": [
+"black abyss mist",
+"faint falling dust"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_04",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "यहाँ तक कि ऐसे तीन चरम-स्तरीय शक्तिशाली विशेषज्ञ भी, जिनकी ताकत स्वयं स्वर्गीय राजाओं के समान मानी जाती थी, इस खाई से गिरने के बाद जीवित नहीं बच सके थे।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, three powerful cultivator silhouettes at cliff edge, ancient robes, overwhelming figures, bottomless abyss, terrifying vertical drop, dark clouds, tragic legendary atmosphere, monumental scale",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, extra limbs, duplicate, text, watermark, signature, 3d, realistic, modern clothes, wings",
+"camera": "extreme wide shot",
+"motion": [
+"robes fluttering",
+"mist moving around cliff"
+],
+"visual_effects": [
+"dark energy haze",
+"mountain mist"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_05",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "इस समय, उसी खाई के किनारे एक काले बालों और काली आँखों वाला युवक, लगभग दो लोगों की ऊँचाई जितनी विशाल चट्टान के सहारे खड़ा था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, pale skin, injured, leaning against enormous boulder, cliff edge, bottomless abyss, mountain mist, full body, dramatic silhouette",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra arms, extra legs, fused fingers, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide side-angle shot",
+"motion": [
+"long black hair blowing in wind",
+"black robe fluttering"
+],
+"visual_effects": [
+"thin mountain mist"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_06",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसके काले कपड़े हर तरफ खून से सने हुए थे और उसके शरीर पर कई गहरे घाव खुले हुए थे।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn black clothing, blood soaked clothes, multiple deep wounds, scratches, fresh blood, injured body, exhausted, giant boulder behind him, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, gore, dismemberment, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium full shot",
+"motion": [
+"blood dripping from clothing",
+"black hair moving in wind"
+],
+"visual_effects": [
+"small blood droplets"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_07",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसे उस चट्टान के सहारे खड़े हुए अभी कुछ ही साँसों जितना समय हुआ था, लेकिन उसके पैरों के नीचे पहले ही खून का एक छोटा-सा तालाब बन चुका था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, leaning heavily against giant boulder, blood pooling beneath boots, cliff edge, dark abyss, exhausted posture",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, excessive gore, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "low-angle medium shot",
+"motion": [
+"blood dripping onto ground",
+"body trembling slightly"
+],
+"visual_effects": [
+"small blood splashes",
+"thin mist"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_08",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसकी छाती तेजी से ऊपर-नीचे हो रही थी। उसकी साँसें इतनी भारी थीं कि उन्हें देखकर किसी के भी मन में डर पैदा हो सकता था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, heavy breathing, chest rising, leaning against giant boulder, tense body, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"chest rising and falling heavily",
+"hair moving with each gust"
+],
+"visual_effects": [],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_09",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसके पूरे शरीर की हर मांसपेशी हल्के-हल्के काँप रही थी, जो उसकी अत्यधिक थकान और शक्ति के लगभग समाप्त हो जाने का संकेत था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, trembling muscles, weakened body, barely standing, one hand supporting against giant boulder, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium full shot",
+"motion": [
+"subtle body trembling",
+"heavy breathing",
+"blood dripping"
+],
+"visual_effects": [],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_10",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "अगर वह विशाल चट्टान उसका सहारा न होती, तो शायद वह अपने पैरों पर खड़ा भी नहीं रह पाता।"
+},
+{
+"speaker": "NARRATOR",
+"text": "लेकिन उसकी दोनों आँखें... वे ठंडी और शांत थीं। दो ठंडी तलवारों की तरह।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, one hand against giant boulder, cold calm eyes, sharp gaze, emotionless expression, dark abyss behind",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, smiling",
+"camera": "extreme close-up",
+"motion": [
+"hair strands moving slowly",
+"eyes remaining completely steady"
+],
+"visual_effects": [],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_11",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उन आँखों में भेड़ियों जैसी खूंखार आक्रामकता चमक रही थी। उसके होंठों के किनारे पर बेहद तिरस्कार भरी मुस्कान थी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, injured, cold wolf-like gaze, predatory eyes, contemptuous smirk, blood on cheek, giant boulder, dark abyss background",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, cute expression",
+"camera": "extreme close-up",
+"motion": [
+"hair blowing across face",
+"slight movement of lips"
+],
+"visual_effects": [],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+}
+]
+},
+{
+"scene_id": "SCENE_02",
+"scene_type": "PRESENT",
+"panels": [
+{
+"panel_id": "PANEL_12",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसके सामने लोगों की एक विशाल भीड़ खड़ी थी, जिसने उसके बच निकलने के हर रास्ते को पूरी तरह बंद कर दिया था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, standing against giant boulder, enormous hostile crowd surrounding him, blocked escape routes, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate characters, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "extreme wide frontal shot",
+"motion": [
+"crowd shifting forward",
+"robes moving in wind"
+],
+"visual_effects": [
+"mountain mist",
+"floating dust"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_13",
+"voice": [
+{
+"speaker": "CROWD_MEMBER",
+"text": "युन चे! अब तुम्हारे बचने का कोई रास्ता नहीं है! हमारे सामने आत्मसमर्पण करो और स्काई पॉइज़न पर्ल हमें सौंप दो। शायद हम तुम्हें जीवित रहने दें!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, leaning against giant boulder, hostile cultivator shouting in foreground, massive crowd behind, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "over-the-shoulder shot",
+"motion": [
+"speaker shouting",
+"crowd moving slightly"
+],
+"visual_effects": [
+"dust particles"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_14",
+"voice": [
+{
+"speaker": "CROWD_MEMBER",
+"text": "आज हम स्वर्ग की ओर से न्याय करेंगे और इस अभिशाप को समाप्त कर देंगे!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, surrounded by powerful cultivators, angry elder shouting, raised hand, imposing crowd, cliff edge, dark clouds",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "low-angle crowd shot",
+"motion": [
+"elder raising arm",
+"crowd shouting"
+],
+"visual_effects": [
+"subtle energy pressure"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_15",
+"voice": [
+{
+"speaker": "CROWD_MEMBER",
+"text": "अगर तुम तुरंत स्काई पॉइज़न पर्ल सौंप दो, तो हम तुम्हें बिना ज्यादा कष्ट के मरने देंगे। वरना तुम्हें अपने हृदय में हजारों धारदार ब्लेडों की पीड़ा का स्वाद चखना पड़ेगा!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, cold expression, hostile cultivator threatening him, many powerful figures behind, cliff edge, tense confrontation",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium two-group shot",
+"motion": [
+"speaker pointing forward",
+"robes fluttering"
+],
+"visual_effects": [
+"dark energy haze"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_16",
+"voice": [
+{
+"speaker": "CROWD_MEMBER",
+"text": "युन चे! इतनी जिद मत करो। तुम्हारे पास अब सिर्फ एक रास्ता है—स्काई पॉइज़न पर्ल हमें सौंप दो!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, cold expression, surrounded by crowd, arrogant cultivator pointing toward him, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium wide shot",
+"motion": [
+"pointing hand moving forward",
+"crowd shifting closer"
+],
+"visual_effects": [],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_17",
+"voice": [
+{
+"speaker": "CROWD_MEMBER",
+"text": "तुम इस तरह की पवित्र वस्तु के योग्य ही नहीं हो!"
+},
+{
+"speaker": "NARRATOR",
+"text": "भीड़ की ओर से लगातार गर्जनाएँ उठ रही थीं। हर कोई न्याय और धर्म की बातें कर रहा था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, silent contemptuous expression, massive crowd shouting around him, aggressive faces, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide crowd shot",
+"motion": [
+"crowd shouting",
+"many arms gesturing",
+"robes fluttering"
+],
+"visual_effects": [
+"dust particles",
+"mountain mist"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_18",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "अगर एज़्योर क्लाउड महाद्वीप का कोई व्यक्ति इस दृश्य को देख लेता, तो वह निश्चित रूप से स्तब्ध रह जाता। क्योंकि यह कोई साधारण भीड़ नहीं थी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, tiny isolated figure, enormous army of elite cultivators, ancient powerful elders, clan leaders, intimidating crowd, cliff edge, epic scale",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "extreme wide panoramic shot",
+"motion": [
+"crowd shifting",
+"mist drifting"
+],
+"visual_effects": [
+"oppressive atmospheric haze"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_19",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "इस भीड़ में एज़्योर क्लाउड महाद्वीप के सबसे शक्तिशाली कुलों के लोग मौजूद थे। उन सभी कुलों के प्रमुख यहाँ उपस्थित थे।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, surrounded by elite clan leaders, powerful cultivators, ornate traditional robes, imposing elders, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide frontal shot",
+"motion": [
+"robes fluttering",
+"leaders stepping forward"
+],
+"visual_effects": [
+"subtle spiritual pressure"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_20",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "यहाँ तक कि वे कुछ पुराने शक्तिशाली लोग भी आए थे, जिन्हें दुनिया लगभग भूल चुकी थी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, ancient cultivator elders, elderly powerful figures, long gray hair, ancient robes, intimidating presence, crowd behind, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "low-angle medium wide shot",
+"motion": [
+"elderly robes moving in wind",
+"mist drifting"
+],
+"visual_effects": [
+"faint oppressive energy"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+}
+]
+},
+{
+"scene_id": "SCENE_03",
+"scene_type": "PRESENT",
+"panels": [
+{
+"panel_id": "PANEL_21",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "यह कहना भी गलत नहीं होगा कि इस भीड़ में मौजूद किसी एक व्यक्ति को भी चुन लिया जाए, तो वह पूरे क्षेत्र को हिला देने वाली शक्ति रखने वाला व्यक्ति होता।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, surrounded by countless powerful cultivators, ancient elders, clan leaders, overwhelming crowd, epic scale, dark mountain cliff",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "extreme wide low-angle shot",
+"motion": [
+"crowd moving slightly",
+"robes and hair blowing"
+],
+"visual_effects": [
+"heavy spiritual pressure haze"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_22",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "और अब... वे सभी इस युवक के लिए यहाँ इकट्ठे हुए थे, जिसे इस खाई के किनारे तक धकेल दिया गया था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, leaning against giant boulder, surrounded on every side by enormous crowd, cliff edge directly behind him, dark abyss, trapped",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "high-angle wide shot",
+"motion": [
+"crowd closing in slowly",
+"young man's hair moving in wind"
+],
+"visual_effects": [
+"mountain mist"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_23",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "या यूँ कहें... वे उसके हाथ में मौजूद स्काई पॉइज़न पर्ल के लिए आए थे। एज़्योर क्लाउड महाद्वीप की नंबर एक पवित्र वस्तु।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, hand partially raised, hidden glowing jade-green pearl, greedy crowd staring at hand, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, blue pearl, red pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"crowd eyes tracking hand",
+"pearl glow beginning to appear"
+],
+"visual_effects": [
+"faint jade-green glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_24",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "भीड़ धीरे-धीरे उसकी ओर बढ़ रही थी और धमकी भरे शब्दों में चिल्ला रही थी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, surrounded by approaching crowd, angry cultivators, threatening gestures, giant boulder, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide frontal shot",
+"motion": [
+"crowd advancing",
+"weapons and sleeves moving"
+],
+"visual_effects": [
+"dust particles",
+"mountain mist"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_25",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "जब स्काई पॉइज़न पर्ल आखिरकार एक बार फिर सामने आया, तो उनके सामने यह अद्भुत खजाना दोबारा मौजूद था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, right hand raised, glowing jade-green spherical pearl clearly visible in palm, crowd staring, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, blue pearl, red pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "close-up on hand and face",
+"motion": [
+"pearl glowing softly",
+"crowd stopping"
+],
+"visual_effects": [
+"jade-green pearl glow",
+"faint green light rays"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_26",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "पिछले पूरे तीन दिनों से वे उसका पीछा कर रहे थे। अब वे अपनी मेहनत का फल हासिल करने के लिए बेसब्र हो चुके थे।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, holding glowing jade-green pearl, massive crowd leaning forward greedily, hungry expressions, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide eye-level shot",
+"motion": [
+"crowd leaning forward",
+"pearl glow pulsing"
+],
+"visual_effects": [
+"jade-green glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_27",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "तुम लोग... चाहते हो... यह स्काई पॉइज़न पर्ल?"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, right hand raised, glowing jade-green pearl in palm, cold eyes, contemptuous expression, slight smirk, greedy crowd behind",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, blue pearl, red pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"right hand held steady",
+"hair moving in wind"
+],
+"visual_effects": [
+"bright jade-green pearl glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_28",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसने धीरे-धीरे अपना दाहिना हाथ उठाया। उसकी हथेली में एक जेड-हरे रंग का गोल मोती दिखाई दिया, जिसके भीतर हल्की-सी रोशनी चमक रही थी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, right hand raised, palm open, single jade-green spherical pearl, glowing core, faint internal light, cliff edge, crowd background",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, blue pearl, red pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "close-up hand shot",
+"motion": [
+"hand rising slowly",
+"pearl light flickering gently"
+],
+"visual_effects": [
+"jade-green glow",
+"soft green light rays"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_29",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "जैसे ही उस मोती से रोशनी निकली... भीड़ के सभी लोग वहीं रुक गए।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, holding glowing jade-green pearl, entire crowd frozen in place, shocked expressions, intense green illumination, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide frontal shot",
+"motion": [
+"crowd suddenly stopping",
+"pearl light intensifying"
+],
+"visual_effects": [
+"bright jade-green light",
+"green glow illuminating faces"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_30",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उनकी निगाहें उस हरे मोती पर जम गईं। और उनकी आँखों में... लालच साफ दिखाई दे रहा था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, glowing jade-green pearl in hand, crowd staring intensely, greedy eyes, covetous expressions, green light reflecting in eyes, dark cliff",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "close-up on crowd eyes",
+"motion": [
+"eyes shifting toward pearl",
+"pearl glow pulsing"
+],
+"visual_effects": [
+"jade-green reflections",
+"green glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+}
+]
+},
+{
+"scene_id": "SCENE_04",
+"scene_type": "PRESENT",
+"panels": [
+{
+"panel_id": "PANEL_31",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "युन चे की नजर में दुनिया को हिला देने की क्षमता रखने वाले ये लोग गंदे और धूर्त थे।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, holding jade-green pearl, disgusted expression, contempt toward massive crowd, cold eyes, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"eyes slowly scanning crowd",
+"hair moving in wind"
+],
+"visual_effects": [
+"faint pearl glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_32",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसने धीरे-धीरे अपनी आँखें उठाईं। हालाँकि वह चारों तरफ से घिर चुका था, फिर भी उसकी आँखों में घमंड और उपहास चमक रहा था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, chin raised, arrogant expression, mocking gaze, surrounded by powerful cultivators, jade-green pearl in hand, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "low-angle close-up",
+"motion": [
+"chin rising slowly",
+"hair blowing sideways"
+],
+"visual_effects": [
+"faint green pearl glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_33",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "और उन आँखों की गहराई में... स्पष्ट घृणा थी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, extreme hatred in black eyes, cold expression, contemptuous gaze, blood on cheek, jade-green pearl glow reflected in eyes",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "extreme close-up",
+"motion": [
+"eyes remaining fixed",
+"single strand of hair crossing face"
+],
+"visual_effects": [
+"subtle green eye reflection"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_34",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "मेरे गुरु ने अपना पूरा जीवन दुनिया को बचाने में लगा दिया। उन्होंने अनगिनत लोगों की जान बचाई।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, injured, holding jade-green pearl, emotional anger, remembering deceased master, hostile crowd blurred behind, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"lips moving",
+"fist slowly tightening"
+],
+"visual_effects": [
+"faint jade-green glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_35",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "उन्होंने कभी किसी लाभ या प्रसिद्धि की इच्छा नहीं की। लेकिन इस स्काई पॉइज़न पर्ल की वजह से... तुम लोगों के तथाकथित धर्मी संप्रदायों ने सात साल पहले मेरे गुरु की हत्या कर दी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, injured, furious expression, blood tears beginning, clenched fist, glowing jade-green pearl, hostile crowd, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"blood tears forming",
+"fist trembling",
+"hair blowing"
+],
+"visual_effects": [
+"faint green pearl aura"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_36",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "मुझे खुद से नफरत है... क्योंकि मैं इतना निकम्मा था कि इन सात वर्षों में तुम सभी कचरे जैसे धर्मी संप्रदायों को खत्म नहीं कर पाया!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, injured, furious eyes, blood tears, clenched teeth, clenched fist, contemptuous expression, jade-green pearl in other hand, hostile crowd behind",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "low-angle close-up",
+"motion": [
+"blood tears running down cheeks",
+"fist shaking",
+"hair whipping in wind"
+],
+"visual_effects": [
+"faint green aura"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_37",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसके हर शब्द में वर्षों से दबा हुआ गहरा क्रोध था। सात वर्ष बीत चुके थे।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, furious but controlled expression, blood on face, jade-green pearl in hand, crowd in background, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium shot",
+"motion": [
+"slow breathing",
+"blood dripping",
+"hair moving"
+],
+"visual_effects": [],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_38",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "लेकिन अपने गुरु की मृत्यु के बारे में सोचते ही उसकी आँखों के किनारों से खून जैसे आँसू बहने लगे।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, blood tears flowing from eyes, grief and hatred, clenched jaw, jade-green pearl in hand, dark cliff background",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, excessive gore, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "extreme close-up",
+"motion": [
+"blood tears flowing slowly",
+"eyelids trembling"
+],
+"visual_effects": [
+"subtle green reflection"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+}
+]
+},
+{
+"scene_id": "SCENE_05",
+"scene_type": "FLASHBACK",
+"panels": [
+{
+"panel_id": "PANEL_39",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "युन चे को यह भी नहीं पता था कि उसके वास्तविक माता-पिता कौन थे। जब उसके गुरु ने उसे पाया था, तब वह केवल कुछ ही दिनों का नवजात शिशु था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1baby, newborn baby, tiny infant, short black hair, peaceful sleeping face, wrapped in white cloth, elderly healer, long gray hair, traditional dark robe, gently holding newborn, mountain wilderness",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate baby, multiple babies, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"baby breathing softly",
+"master holding baby carefully"
+],
+"visual_effects": [],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_40",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "वह वसंत ऋतु का समय था। उसके गुरु ने उस समय युन चे को पाया था। बादल बिखरे हुए थे। हवा हल्की थी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, elderly healer, long gray hair, wise face, traditional dark robe, holding newborn baby, tiny infant, short black hair, white cloth, spring mountain, scattered white clouds, gentle breeze, peaceful landscape",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate baby, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide establishing shot",
+"motion": [
+"spring grass moving gently",
+"clouds drifting",
+"master robe moving in breeze"
+],
+"visual_effects": [],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_41",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "पहाड़ आध्यात्मिक ऊर्जा से भरे हुए थे। और पानी बिल्कुल साफ था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, pristine mountain stream, clear water, spiritual mountain energy, spring vegetation, scattered clouds, ancient mountain landscape, soft sunlight, peaceful atmosphere, no characters",
+"negative_prompt": "worst quality, low quality, lowres, blurry, text, watermark, signature, 3d, realistic, modern buildings, polluted water",
+"camera": "wide landscape shot",
+"motion": [
+"clear water flowing",
+"grass moving in breeze",
+"mist drifting"
+],
+"visual_effects": [
+"subtle spiritual energy particles"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_42",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "इसीलिए उसके गुरु ने उस बच्चे का नाम युन चे रखा। उन्हें उम्मीद थी कि उसका हृदय बादलों की तरह शुद्ध और पानी की तरह निर्मल होगा।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, elderly healer, long gray hair, wise gentle face, traditional dark robe, holding newborn baby, tiny infant, short black hair, white cloth, peaceful smile, spring mountain, clouds, clear stream, warm sunlight",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate baby, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium cinematic shot",
+"motion": [
+"master looking gently at baby",
+"clouds drifting",
+"stream flowing"
+],
+"visual_effects": [
+"soft spiritual particles"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_43",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "जब वह बड़ा होगा, तो वह अपने गुरु की चिकित्सा-कला को आगे बढ़ाएगा और एक ऐसे हृदय के साथ लोगों को बचाएगा जिसमें कोई भ्रष्ट भावना न हो।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, elderly healer, long gray hair, wise face, traditional dark robe, young apprentice boy, black hair, black eyes, simple dark robe, learning medicine, medicinal herbs, ancient mountain medicine room, compassionate atmosphere",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate characters, text, watermark, signature, 3d, realistic, chibi, modern clothes, modern hospital",
+"camera": "medium wide shot",
+"motion": [
+"master teaching",
+"young apprentice sorting herbs",
+"robes moving gently"
+],
+"visual_effects": [
+"soft spiritual glow"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_44",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "बीमारी कितनी भी गंभीर क्यों न हो... चोट कितनी भी भयानक क्यों न हो... उसका गुरु हर बीमारी और हर घाव को ठीक कर सकता था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, elderly healer, long gray hair, wise face, traditional dark robe, treating severely injured patient, glowing hands, medicinal herbs, young apprentice watching carefully, ancient medicine room, healing atmosphere",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate characters, excessive gore, text, watermark, signature, 3d, realistic, chibi, modern hospital",
+"camera": "medium shot",
+"motion": [
+"healing hands moving",
+"young apprentice observing",
+"medicinal smoke drifting"
+],
+"visual_effects": [
+"soft healing energy",
+"warm spiritual particles"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_45",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "इसका कारण था उसके शरीर के भीतर छिपा हुआ स्काई पॉइज़न पर्ल।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, young apprentice boy, black hair, black eyes, simple dark robe, glowing jade-green pearl represented as internal energy, elderly healer, long gray hair, wise face, traditional dark robe, mystical medicine room, green light",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"jade-green energy pulsing",
+"master observing carefully"
+],
+"visual_effects": [
+"jade-green internal glow",
+"soft spiritual particles"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+}
+]
+},
+{
+"scene_id": "SCENE_06",
+"scene_type": "FLASHBACK",
+"panels": [
+{
+"panel_id": "PANEL_46",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "“स्काई पॉइज़न” नाम सुनने से ही पता चलता था कि यह मोती अत्यंत विषैला था। लेकिन... औषधि और विष एक ही मूल से उत्पन्न होते हैं।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, elderly healer, long gray hair, wise face, traditional dark robe, holding glowing jade-green pearl, poisonous green mist, medicinal herbs, ancient medicine chamber, mystical atmosphere, young apprentice watching",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern laboratory",
+"camera": "medium shot",
+"motion": [
+"green mist swirling",
+"master turning pearl slowly"
+],
+"visual_effects": [
+"poisonous green aura",
+"jade-green glow"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_47",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसके गुरु ने कभी इसकी विषैली शक्ति का उपयोग नहीं किया। इसके बजाय उन्होंने इसकी सहायता से औषधियाँ तैयार कीं।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, elderly healer, long gray hair, wise face, traditional dark robe, carefully preparing medicine, glowing jade-green pearl nearby, medicinal herbs, ancient bottles, medicine furnace, young apprentice observing",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern laboratory",
+"camera": "medium side-angle shot",
+"motion": [
+"medicine being stirred",
+"smoke rising from furnace",
+"master hands moving carefully"
+],
+"visual_effects": [
+"faint green medicinal glow"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_48",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "वे विष से आवश्यक तत्व निकालते, उन्हें शुद्ध करते और अंततः ऐसी पवित्र औषधियाँ बनाते, जो लाखों लोगों की जान बचा सकती थीं।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, elderly healer, long gray hair, wise face, traditional dark robe, extracting green essence from jade-green pearl, purifying poisonous energy, glowing medicinal liquid, glass bottles, ancient medicine room, young apprentice watching",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern laboratory",
+"camera": "close-up laboratory shot",
+"motion": [
+"green essence flowing",
+"liquid swirling inside bottle",
+"smoke rising"
+],
+"visual_effects": [
+"jade-green energy streams",
+"purification glow"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_49",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उन्होंने अपनी पूरी चिकित्सा-कला युन चे को सिखा दी थी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, young apprentice, black hair, black eyes, simple dark robe, carefully studying medicine scrolls, elderly healer, long gray hair, wise face, traditional dark robe, teaching beside him, medicinal herbs, ancient medicine room",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate characters, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "over-the-shoulder shot",
+"motion": [
+"young apprentice turning pages",
+"master pointing at medicine notes"
+],
+"visual_effects": [],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_50",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "लेकिन सात साल पहले... उसके गुरु के पास मौजूद स्काई पॉइज़न पर्ल की खबर फैल गई।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, elderly healer, long gray hair, wise face, traditional dark robe, worried expression, jade-green pearl hidden in hand, dark medicine room, ominous shadows, young apprentice in background, danger approaching",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"master looking toward doorway",
+"robe moving slightly"
+],
+"visual_effects": [
+"ominous shadow",
+"faint pearl glow"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+}
+]
+},
+{
+"scene_id": "SCENE_07",
+"scene_type": "FLASHBACK",
+"panels": [
+{
+"panel_id": "PANEL_51",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उन्होंने वह मोती युन चे को सौंप दिया और उसे वहाँ से भाग जाने के लिए कहा।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, elderly healer, long gray hair, wise face, traditional dark robe, urgently handing jade-green pearl to young apprentice, young boy, black hair, black eyes, simple dark robe, worried expression, ancient medicine room",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate characters, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"master extending hand",
+"young apprentice receiving pearl"
+],
+"visual_effects": [
+"bright jade-green pearl glow"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_52",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "कुछ ही समय बाद... प्रमुख संप्रदायों के हाथों उसके गुरु की हत्या कर दी गई।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, elderly healer, long gray hair, traditional dark robe, wounded, collapsing in ruined medicine hall, multiple hostile cultivator silhouettes surrounding him, broken furniture, smoke, blood, jade-green glow absent from his hands, tragic scene",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, excessive gore, dismemberment, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide dramatic shot",
+"motion": [
+"smoke drifting",
+"elderly healer collapsing",
+"enemy figures moving"
+],
+"visual_effects": [
+"floating embers",
+"dark smoke"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_53",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "जब युन चे तक अपने गुरु की मृत्यु की खबर पहुँची... वह तीन दिनों और तीन रातों तक रोता रहा।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, young man, black hair, black eyes, dark robe, kneeling alone, tears streaming, devastated expression, clenched fists, dim mountain shelter, grief, abandoned medicine tools",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium wide shot",
+"motion": [
+"tears falling continuously",
+"body trembling"
+],
+"visual_effects": [
+"dim candlelight",
+"soft dust particles"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_54",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसके हृदय में नफरत की जड़ पूरी तरह जम चुकी थी। उसके बाद उसने चिकित्सा-कला का अभ्यास करना छोड़ दिया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, young man, black hair, black eyes, dark robe, sitting alone, abandoned medicine scrolls, closed medicine book, cold expression, grief transformed into hatred, dark mountain room",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "side-angle medium shot",
+"motion": [
+"young man slowly closing medicine scroll",
+"dust drifting through room"
+],
+"visual_effects": [
+"dark shadow atmosphere"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_55",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "इसके बजाय... उसने स्काई पॉइज़न पर्ल के विष को अपने भीतर समाहित करना शुरू कर दिया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, young man, black hair, black eyes, dark robe, sitting cross-legged, jade-green pearl floating before chest, poisonous green energy entering body, intense concentration, dark cultivation chamber, clenched fists",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "front medium shot",
+"motion": [
+"poisonous energy flowing into body",
+"hair lifting from energy"
+],
+"visual_effects": [
+"poisonous green aura",
+"swirling jade-green energy"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_56",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "बदला ही उसका एकमात्र विश्वास बन गया। सात वर्षों के बाद उसने विष पर पूर्ण नियंत्रण हासिल कर लिया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, young man, black hair, black eyes, dark robe, sitting in meditation, powerful jade-green poison aura completely controlled around body, calm expression, seven years of cultivation implied, dark mountain chamber",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "low-angle medium shot",
+"motion": [
+"poison aura rotating calmly",
+"hair floating slightly"
+],
+"visual_effects": [
+"controlled jade-green poison aura",
+"dense energy rings"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_57",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "और बदले के लिए अपने दाँत बाहर निकाल दिए। दस दिनों से भी कम समय में... उसका विष केवल हजारों मील के क्षेत्र में फैलकर अनगिनत लोगों की जान ही नहीं ले गया..."
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, young man, black hair, black eyes, black robe, standing on high mountain, powerful poisonous green aura spreading across enormous landscape, distant towns covered by green mist, ominous sky, vengeance",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "extreme aerial shot",
+"motion": [
+"poisonous mist spreading across landscape",
+"dark clouds moving rapidly"
+],
+"visual_effects": [
+"vast poisonous green mist",
+"dark green atmospheric haze"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_58",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "बल्कि पूरे एज़्योर क्लाउड महाद्वीप में भय और आतंक भी फैला दिया। इसने शक्तिशाली लोगों को अपनी ओर आकर्षित कर लिया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, vast Azure Cloud landscape, poisonous green haze across distant mountains, frightened crowds, powerful cultivators looking toward toxic horizon, dark clouds, ominous atmosphere",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, duplicate, text, watermark, signature, 3d, realistic, chibi, modern city",
+"camera": "extreme wide aerial shot",
+"motion": [
+"green mist spreading",
+"people looking toward horizon",
+"dark clouds moving"
+],
+"visual_effects": [
+"poisonous green haze",
+"dark atmospheric pressure"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_59",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "क्योंकि सभी इस अद्भुत खजाने को पाने के लिए लालायित थे। और इसी तरह... स्काई पॉइज़न पर्ल हासिल करने के लिए युन चे का शिकार शुरू हुआ।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, young man, black hair, black eyes, black robe, running across rugged mountain terrain, powerful cultivators pursuing from behind, jade-green poison aura, hunters surrounding distant paths, dramatic chase, dark clouds",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide tracking shot",
+"motion": [
+"young man running",
+"pursuers rushing behind",
+"robes streaming in wind"
+],
+"visual_effects": [
+"faint poisonous green aura",
+"dust trails"
+],
+"scene_type": "FLASHBACK",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_60",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "जो अब उसे इस खाई के किनारे तक ले आया था।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, standing at edge of colossal cliff, enormous pursuing crowd behind him, giant boulder, dark abyss, mountain mist",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "extreme wide establishing shot",
+"motion": [
+"crowd approaching",
+"young man's hair blowing",
+"mist moving around cliff"
+],
+"visual_effects": [
+"dark atmospheric haze"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+}
+]
+},
+{
+"scene_id": "SCENE_08",
+"scene_type": "PRESENT",
+"panels": [
+{
+"panel_id": "PANEL_61",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "युन चे ने अपने सामने दिखाई दे रहे हर व्यक्ति को घृणा से घूरा।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, standing against giant boulder, hatred-filled gaze, staring directly at hostile crowd, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"eyes moving slowly across crowd",
+"hair blowing"
+],
+"visual_effects": [],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_62",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "फिर वह ठंडी हँसी हँसा। जब उसकी हँसी बर्फ जैसी ठंडी हो गई, तो उसने अचानक गरजते हुए कहा,"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, cold sinister smirk, laughing softly, hostile crowd behind, cliff edge, wind blowing hair",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "low-angle close-up",
+"motion": [
+"shoulders moving with cold laughter",
+"hair whipping in wind"
+],
+"visual_effects": [],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_63",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "तुम कुत्ते के बच्चों! तुम लोग मेरा स्काई पॉइज़न पर्ल चाहते हो...?"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, furious expression, contemptuous smirk, shouting toward crowd, right hand holding jade-green pearl, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, blue pearl, red pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"mouth opening while shouting",
+"right hand tightening around pearl"
+],
+"visual_effects": [
+"jade-green pearl glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_64",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "तुम... सब... सपने देख रहे हो!!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, furious shouting, wide cold eyes, contemptuous expression, jade-green pearl in hand, massive crowd facing him, cliff edge, dramatic wind",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "low-angle dramatic close-up",
+"motion": [
+"hair whipping violently",
+"robe fluttering",
+"crowd reacting"
+],
+"visual_effects": [
+"faint jade-green glow",
+"dust burst"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_65",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "यह गहरी घोषणा करने के बाद... युन चे ने अचानक अपना हाथ उठाया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, right hand suddenly raised, jade-green pearl held between fingers, shocked crowd, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium action shot",
+"motion": [
+"right hand rising quickly",
+"crowd recoiling"
+],
+"visual_effects": [
+"jade-green pearl glow intensifying"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_66",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "और स्काई पॉइज़न पर्ल को अपने मुँह में डाल लिया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, jade-green pearl held directly at mouth, mouth open, about to swallow pearl, shocked crowd, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, multiple pearls, blue pearl, red pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "extreme close-up",
+"motion": [
+"pearl moving toward mouth",
+"crowd recoiling"
+],
+"visual_effects": [
+"bright jade-green glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_67",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसने मोती को अपने गले से नीचे धकेल दिया। और वह तुरंत उसके पेट के भीतर जा पहुँचा।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, head tilted back, swallowing glowing jade-green pearl, hand at throat, green light visible through body, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, multiple pearls, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"throat moving as pearl is swallowed",
+"head lowering slowly"
+],
+"visual_effects": [
+"jade-green light traveling downward",
+"green internal glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_68",
+"voice": [
+{
+"speaker": "CROWD_MEMBER",
+"text": "क्या...! तुम क्या कर रहे हो?!"
+},
+{
+"speaker": "CROWD_MEMBER",
+"text": "उसने सच में... स्काई पॉइज़न पर्ल निगल लिया!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, standing calmly after swallowing pearl, shocked crowd, wide eyes, open mouths, jade-green glow emerging from body, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pearl, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide reaction shot",
+"motion": [
+"crowd recoiling",
+"several people raising hands in shock"
+],
+"visual_effects": [
+"green glow beginning from Yun Che's body"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+}
+]
+},
+{
+"scene_id": "SCENE_09",
+"scene_type": "PRESENT",
+"panels": [
+{
+"panel_id": "PANEL_69",
+"voice": [
+{
+"speaker": "CROWD_MEMBER",
+"text": "युन चे! क्या तुम इतनी बुरी तरह मरना चाहते हो?!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, standing at cliff edge, green glow from body, angry cultivator shouting at him, hostile crowd, giant boulder",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium two-group shot",
+"motion": [
+"cultivator shouting",
+"Yun Che remaining still"
+],
+"visual_effects": [
+"jade-green body glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_70",
+"voice": [
+{
+"speaker": "CROWD_MEMBER",
+"text": "कोई बात नहीं। इससे कुछ नहीं होगा। हम उसे मार देंगे और फिर मोती निकाल लेंगे!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, jade-green glow from body, hostile cultivator confidently raising weapon, crowd preparing to attack, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium wide shot",
+"motion": [
+"weapon being raised",
+"attackers preparing to advance"
+],
+"visual_effects": [
+"jade-green aura"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_71",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "स्काई पॉइज़न पर्ल उसके शरीर के भीतर पहुँच चुका था। लेकिन... जैसा उन लोगों ने सोचा था, उसका विष पूरे शरीर में फैलकर उसे मारने नहीं लगा।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, standing upright, eyes calm, jade-green energy contained inside body, surprised crowd, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, dead body",
+"camera": "medium full shot",
+"motion": [
+"green energy pulsing under skin",
+"Yun Che breathing slowly"
+],
+"visual_effects": [
+"controlled jade-green internal glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_72",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "इसके बजाय... उसके शरीर की सतह से हल्की हरी रोशनी निकलने लगी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, standing at cliff edge, subtle jade-green light radiating from entire body, green glow around skin, shocked crowd",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium full shot",
+"motion": [
+"green light pulsing outward",
+"hair floating slightly from energy"
+],
+"visual_effects": [
+"jade-green body aura",
+"soft poisonous glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_73",
+"voice": [
+{
+"speaker": "CROWD_MEMBER",
+"text": "अभी इसे मार डालो! वरना स्काई पॉइज़न पर्ल उसके शरीर के भीतर कोई बदलाव कर सकता है। तब बहुत बड़ी समस्या हो जाएगी!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, jade-green aura, frightened angry cultivator pointing toward him, crowd preparing attack, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium wide shot",
+"motion": [
+"cultivator pointing",
+"attackers moving forward"
+],
+"visual_effects": [
+"poisonous green aura"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_74",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "गर्जना करते हुए सामने की पंक्ति में मौजूद लगभग एक दर्जन लोग एक साथ युन चे की ओर झपट पड़े।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, jade-green aura, one dozen powerful cultivators charging toward him, weapons raised, aggressive faces, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra arms, extra legs, fused fingers, duplicate characters, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "wide action shot",
+"motion": [
+"twelve cultivators rushing forward",
+"weapons swinging",
+"robes streaming backward"
+],
+"visual_effects": [
+"dust burst",
+"jade-green aura"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+}
+]
+},
+{
+"scene_id": "SCENE_10",
+"scene_type": "PRESENT",
+"panels": [
+{
+"panel_id": "PANEL_75",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "युन चे ने उन लोगों की आकृतियों को देखा, जिन्हें वह नष्ट करना चाहता था। और वह हँसने लगा।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, jade-green aura, looking directly at charging attackers, cold fearless smile, contemptuous expression, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate characters, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium close-up",
+"motion": [
+"Yun Che laughing",
+"attackers approaching rapidly",
+"hair whipping in wind"
+],
+"visual_effects": [
+"jade-green aura"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_76",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "मेरे पास तुम लोगों को मारने की क्षमता नहीं है... लेकिन यह मत सोचो कि तुम मुझे मार सकते हो!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, jade-green aura, fearless expression, contemptuous smile, speaking toward charging enemies, cliff edge, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "low-angle medium close-up",
+"motion": [
+"Yun Che speaking",
+"attackers rushing closer"
+],
+"visual_effects": [
+"jade-green aura"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_77",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "तुम जैसे कचरे इस स्काई पॉइज़न पर्ल के योग्य नहीं हो... और इससे भी ज्यादा, तुम मुझे मारने के योग्य नहीं हो!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, jade-green aura, arrogant contemptuous smile, cold black eyes, charging enemies in background, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "extreme close-up",
+"motion": [
+"lips moving",
+"hair blowing violently",
+"enemies closing distance"
+],
+"visual_effects": [
+"jade-green glow around body"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_78",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "अगर मैं मरूँगा... तो अपने ही हाथों मरूँगा! हाहाहाहा...!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, jade-green aura, head tilted slightly back, laughing loudly, fearless arrogant expression, blood tears, charging enemies behind",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "low-angle close-up",
+"motion": [
+"body shaking with laughter",
+"hair whipping",
+"enemies rushing closer"
+],
+"visual_effects": [
+"jade-green aura",
+"dust particles"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_79",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "हँसने के बाद... युन चे ने अपनी बची हुई आखिरी शक्ति को एकत्र किया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, gathering final strength, tense legs, clenched fists, jade-green energy concentrated around body, giant boulder, cliff edge",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes",
+"camera": "medium full shot",
+"motion": [
+"body lowering slightly",
+"energy gathering",
+"robes pulling in wind"
+],
+"visual_effects": [
+"concentrated jade-green energy",
+"dust lifting from ground"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_80",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "और पीछे की ओर छलांग लगा दी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, powerful backward leap from cliff edge, body airborne, arms extended, jade-green aura, giant boulder behind, dark abyss below",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, flying upward, rescue",
+"camera": "wide side-angle action shot",
+"motion": [
+"body launching backward",
+"hair and robe streaming forward",
+"dust exploding from feet"
+],
+"visual_effects": [
+"jade-green energy trail",
+"dust burst"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_81",
+"voice": [
+{
+"speaker": "CROWD_MEMBER",
+"text": "उसे रोको!!!"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, falling backward over cliff, multiple cultivators lunging after him, hands reaching desperately, giant abyss behind, jade-green aura",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, flying upward, rescue successful",
+"camera": "extreme wide side shot",
+"motion": [
+"attackers lunging",
+"hands reaching forward",
+"Yun Che falling backward"
+],
+"visual_effects": [
+"dust cloud",
+"faint jade-green aura"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_82",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "अपनी गलती समझते ही कई हाथ युन चे की ओर बढ़े। लेकिन... वे उसकी परछाईं का आधा हिस्सा भी नहीं पकड़ सके।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, falling rapidly away from cliff, many powerful cultivators reaching over edge, fingertips missing him, enormous abyss, dark mist",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, rescue",
+"camera": "high-angle downward shot",
+"motion": [
+"Yun Che falling downward",
+"hands stretching after him",
+"robes flowing upward"
+],
+"visual_effects": [
+"dark mist",
+"falling dust"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_83",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "वे केवल देखते रह गए... जब युन चे का शरीर नीचे घाटी की ओर गिरने लगा।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, tiny falling figure, massive cliff above, shocked cultivators watching from edge, endless dark valley, mist",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, flying upward, rescue",
+"camera": "extreme wide aerial shot",
+"motion": [
+"Yun Che descending",
+"crowd remaining frozen",
+"mist rushing upward relative to fall"
+],
+"visual_effects": [
+"dense abyss mist"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_84",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "उसका शरीर स्वतंत्र रूप से उस अथाह अंधकार में गिरता चला गया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, falling freely, arms slightly spread, endless black abyss, enormous cliff walls, dense mist, tiny silhouette",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, flying upward, rescue, ground visible",
+"camera": "extreme downward shot",
+"motion": [
+"body falling continuously",
+"hair and robe streaming upward",
+"mist rushing past"
+],
+"visual_effects": [
+"black abyss haze",
+"faint jade-green glow"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+}
+]
+},
+{
+"scene_id": "SCENE_11",
+"scene_type": "PRESENT",
+"panels": [
+{
+"panel_id": "PANEL_85",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "यह जगह... मेरे लिए, युन चे के लिए, कब्र बनने के लिए बिल्कुल सही है..."
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, exhausted, falling through endless darkness, calm resigned expression, eyes half closed, dark abyss, faint green aura",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, flying upward, rescue, ground visible",
+"camera": "medium close-up from below",
+"motion": [
+"body descending",
+"hair floating upward",
+"robe flowing in free fall"
+],
+"visual_effects": [
+"faint jade-green aura",
+"dark mist"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_86",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "अब इस दुनिया में मुझे रोकने वाला कुछ भी नहीं है। मेरे कोई संबंध नहीं बचे हैं।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, falling alone, eyes partially closed, lonely expression, arms relaxed, endless dark abyss, faint light far above",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, flying upward, rescue, ground visible",
+"camera": "medium full falling shot",
+"motion": [
+"body falling slowly",
+"hair drifting upward",
+"robe fluttering"
+],
+"visual_effects": [
+"dark mist",
+"faint distant light"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_87",
+"voice": [
+{
+"speaker": "युन चे",
+"text": "दुर्भाग्य से... मैं अपने गुरु का बदला नहीं ले सका... और न ही अपने जैविक माता-पिता को खोज पाया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, falling alone, sorrowful expression, tears mixing with blood, eyes looking upward, endless abyss, dark mist",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, excessive gore, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, rescue, ground visible",
+"camera": "close-up falling shot",
+"motion": [
+"blood tears drifting from face",
+"hair floating upward"
+],
+"visual_effects": [
+"faint green aura",
+"dark mist"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_88",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "युन चे ने धीरे से अपनी छाती के सामने लटक रहे चाँदी के लॉकेट को पकड़ लिया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, falling through abyss, one hand gripping silver pendant at chest, silver locket, sorrowful expression, dark mist",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pendant, multiple pendants, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, rescue, ground visible",
+"camera": "extreme close-up",
+"motion": [
+"fingers closing around pendant",
+"pendant swinging slightly",
+"hair flowing upward"
+],
+"visual_effects": [
+"faint silver reflection"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_89",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "जब उसके गुरु ने उसे पाया था, तब उसके पास यही एकमात्र वस्तु थी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, falling, hand holding silver pendant, emotional expression, memory of childhood implied through expression, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate pendant, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, rescue, ground visible",
+"camera": "close-up",
+"motion": [
+"pendant swinging gently",
+"fingers tightening"
+],
+"visual_effects": [
+"soft silver reflection"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_90",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "हवा उसके कानों के पास से तेज चीखती हुई गुजर रही थी।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, falling rapidly through abyss, hair violently streaming upward, robe fluttering, silver pendant at chest, dark mist",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, flying upward, rescue, ground visible",
+"camera": "side close-up",
+"motion": [
+"hair streaming violently",
+"robe snapping in wind",
+"mist rushing upward"
+],
+"visual_effects": [
+"wind streaks",
+"dark abyss haze"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_91",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "युन चे ने धीरे-धीरे अपनी आँखें बंद कर लीं।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, falling through darkness, eyes slowly closing, exhausted peaceful expression, silver pendant at chest, dark abyss",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, rescue, ground visible",
+"camera": "extreme close-up",
+"motion": [
+"eyelids closing slowly",
+"hair flowing upward",
+"pendant swinging"
+],
+"visual_effects": [
+"faint silver reflection",
+"dark mist"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+},
+{
+"panel_id": "PANEL_92",
+"voice": [
+{
+"speaker": "NARRATOR",
+"text": "और अपने शरीर को उस अंतहीन प्रतीत होने वाली... अंधेरी खाई की गहराइयों में गिरने दिया।"
+}
+],
+"image_prompt": "masterpiece, best quality, very aesthetic, absurdres, anime screencap, cinematic lighting, 1boy, young man, long black hair, black eyes, black robe, torn blood soaked clothes, deep wounds, eyes closed, falling alone into endless black abyss, silver pendant at chest, faint jade-green aura, enormous darkness, tiny silhouette, tragic final composition",
+"negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, extra limbs, duplicate, text, watermark, signature, 3d, realistic, chibi, modern clothes, wings, flying upward, rescue, ground visible",
+"camera": "extreme wide downward shot",
+"motion": [
+"Yun Che falling deeper into darkness",
+"hair and robe streaming upward",
+"mist rushing past"
+],
+"visual_effects": [
+"dense black abyss mist",
+"faint jade-green aura",
+"faint silver pendant reflection"
+],
+"scene_type": "PRESENT",
+"duration": "AUTO_FROM_TTS"
+}
+]
+}
+]
+}
+}

@@ -1,0 +1,2871 @@
+{
+  "project": "TRI-ANANT / RUDRANSH REBIRTH",
+  "chapter": "अध्याय 1 — रुद्रांश का पुनर्जन्म",
+  "format": "16:9",
+  "language": "Hindi",
+  "style": "cinematic high-detail anime",
+  "continuity_rules": [
+    "Do not alter the source story after the opening hook.",
+    "Preserve source dialogue/narration wording.",
+    "Keep Rudransh visually consistent across all panels.",
+    "Keep Chandrika visually consistent whenever shown.",
+    "Every image prompt explicitly establishes location, character position, surroundings and camera framing.",
+    "The opening contains only one small hook addition; the source story follows unchanged.",
+    "Chhoti Bua (light blue hanfu) and Chandrika (white-pink hanfu) are DIFFERENT characters."
+  ],
+  "scenes": [
+    {
+      "scene_id": "SCENE_01",
+      "scene_title": "जागृति और पुनर्जन्म",
+      "panels": [
+        {
+          "panel_id": "PANEL_001",
+          "source_panel": "PANEL_001",
+          "voice": [
+            {
+              "speaker": "HOOK",
+              "text": "रुको... अगर मौत के बाद तुम्हें दूसरा जीवन मिल जाए, तो क्या तुम अपनी कहानी फिर से लिखोगे?"
+            }
+          ],
+          "image_prompt": "extreme close-up, closed eyes of a young man, black hair, black background, faint jade-green glow on face, eyelids trembling, mysterious, dark",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.08
+        },
+        {
+          "panel_id": "PANEL_002",
+          "source_panel": "PANEL_001",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "**क्या हो रहा है...?**\n**मैं मरा क्यों नहीं?**\nउसे स्पष्ट रूप से याद था कि उसने **मेघांत खाई** से छलांग लगा दी थी।"
+            }
+          ],
+          "image_prompt": "from behind, young man, black hair, black eyes, torn black robe leaping off cliff edge into misty bottomless chasm, stormy sky, falling, wind",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "from behind",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.7
+        },
+        {
+          "panel_id": "PANEL_003",
+          "source_panel": "PANEL_001",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "फिर वह अभी तक जीवित कैसे था?"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "और सबसे अजीब बात...\nउसके शरीर में जरा भी दर्द नहीं था।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe lying on pillow, eyes slowly opening, faint green light on face, calm, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_004",
+          "source_panel": "PANEL_002",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसे किसी भी प्रकार की असुविधा महसूस नहीं हो रही थी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "**आखिर यह कैसे संभव है?**\nरुद्रांश ने अचानक अपनी आँखें खोल दीं और तेजी से उठकर बैठ गया।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe suddenly sitting up in bed, wide shocked eyes, hands on blanket, wooden canopy bed, red banner above, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.68
+        },
+        {
+          "panel_id": "PANEL_005",
+          "source_panel": "PANEL_002",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसने देखा कि वह एक बेहद आरामदायक और मुलायम बिस्तर पर लेटा हुआ था।"
+            }
+          ],
+          "image_prompt": "wide shot, ancient chinese bedroom, red wedding banner, red lanterns, soft silk bed, 1boy, teenager, short black hair, black eyes, red wedding robe sitting on bed center, wooden furniture, window dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.2
+        },
+        {
+          "panel_id": "PANEL_006",
+          "source_panel": "PANEL_003",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसके सिर के ऊपर एक लाल रंग का विशाल विवाह-ध्वज लटक रहा था, जिसने पूरे कमरे में उत्सव जैसा वातावरण बना रखा था।"
+            }
+          ],
+          "image_prompt": "low angle looking up from bed, huge red wedding banner hanging from ceiling, red silk, gold embroidery, red lanterns, festive ancient chinese room, no humans",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "low angle looking up from bed",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.72
+        },
+        {
+          "panel_id": "PANEL_007",
+          "source_panel": "PANEL_003",
+          "voice": [
+            {
+              "speaker": "छोटी बुआ",
+              "text": "“आह!"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश!"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "तुम... तुम जाग गए!”\nउसके कानों के पास एक युवती की आश्चर्य से भरी आवाज सुनाई दी।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe lying in bed startled, turning head sideways, blurred girl silhouette at frame edge, bedroom, red wedding banner, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.14
+        },
+        {
+          "panel_id": "PANEL_008",
+          "source_panel": "PANEL_003",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अगले ही क्षण वही युवती उसकी आँखों के सामने दिखाई दी।"
+            }
+          ],
+          "image_prompt": "close-up, teenage girl, long black hair, silver hairpin, light blue hanfu leaning over bed looking down, surprised happy face, bedside, bedroom, red wedding banner",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_009",
+          "source_panel": "PANEL_004",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "पहली नजर में ही स्पष्ट था कि वह लगभग पंद्रह या सोलह वर्ष की होगी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "उसका चेहरा बर्फ की तरह उजला था।"
+            }
+          ],
+          "image_prompt": "upper body, teenage girl, long black hair, silver hairpin, light blue hanfu, standing beside bed, snow white face, gentle, bedroom, red wedding banner, soft light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "upper body",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.41
+        },
+        {
+          "panel_id": "PANEL_010",
+          "source_panel": "PANEL_004",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसके होंठ गुलाबी और आकर्षक थे तथा उसकी नाक बेहद नाजुक और सुंदर थी।"
+            }
+          ],
+          "image_prompt": "close-up face, teenage girl, pink lips, delicate small nose, snow white skin, long black hair, soft light, depth of field",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up face",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.35
+        },
+        {
+          "panel_id": "PANEL_011",
+          "source_panel": "PANEL_005",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसकी आँखें इतनी साफ और पारदर्शी थीं, मानो किसी शांत झरने का निर्मल जल उनमें समाया हुआ हो।"
+            }
+          ],
+          "image_prompt": "extreme close-up, clear transparent eyes like spring water, teenage girl, long eyelashes, light reflection, gentle",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.08
+        },
+        {
+          "panel_id": "PANEL_012",
+          "source_panel": "PANEL_005",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसके चेहरे पर गहरी चिंता के साथ-साथ ऐसी कोमलता थी, जो किसी के भी हृदय को छू सकती थी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "इतनी कम उम्र में ही उसमें इतनी अद्भुत सुंदरता थी।"
+            }
+          ],
+          "image_prompt": "portrait, teenage girl, long black hair, silver hairpin, light blue hanfu, worried tender expression, blurred red wedding room background, soft light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "portrait",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.6
+        },
+        {
+          "panel_id": "PANEL_013",
+          "source_panel": "PANEL_006",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "कोई कल्पना भी नहीं कर सकता था कि भविष्य में वह कितनी असाधारण सुंदर दिखाई देगी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश ने पास खड़ी युवती को ध्यान से देखा।"
+            }
+          ],
+          "image_prompt": "over the shoulder, 1boy, 1girl, boy short black hair, red robe in bed gazing carefully at girl long black hair, light blue hanfu standing beside bed, bedroom, red wedding banner",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "over the shoulder",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.97
+        },
+        {
+          "panel_id": "PANEL_014",
+          "source_panel": "PANEL_006",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "फिर अनजाने में उसके होंठों से दो शब्द निकल गए—\n“**छोटी बुआ...?**”\nयुवती ने तुरंत अपने हाथ रुद्रांश के माथे पर रखे।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, 1girl, girl long black hair, light blue hanfu placing both hands on forehead of boy short black hair, red robe lying in bed, he looks surprised, bedroom, red wedding banner",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.71
+        },
+        {
+          "panel_id": "PANEL_015",
+          "source_panel": "PANEL_006",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "कुछ क्षण बाद उसके चेहरे पर राहत और खुशी दिखाई दी।"
+            }
+          ],
+          "image_prompt": "close-up, teenage girl, long black hair, silver hairpin, light blue hanfu, smiling with relief and joy, bright eyes, warm light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_016",
+          "source_panel": "PANEL_007",
+          "voice": [
+            {
+              "speaker": "छोटी बुआ",
+              "text": "“कितनी अच्छी बात है!"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "तुम्हारे शरीर का तापमान लगभग सामान्य हो गया है।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "तुमने तो मुझे डरा ही दिया था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, 1girl, happy girl long black hair, light blue hanfu beside bed, hand on forehead of boy short black hair, red robe lying down, relieved, warm morning light, bedroom, red wedding banner",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.2
+        },
+        {
+          "panel_id": "PANEL_017",
+          "source_panel": "PANEL_008",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश, अब तुम ठीक हो न?"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "कहीं भी तकलीफ हो तो मुझे तुरंत बताना।”\nयुवती की आँखों में भरी गहरी चिंता को देखते हुए रुद्रांश ने यंत्रवत अपना सिर हिला दिया।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, 1girl, worried girl long black hair, light blue hanfu leaning over bed, boy short black hair, red robe sitting and nodding, dawn light, bedroom, red wedding banner",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.94
+        },
+        {
+          "panel_id": "PANEL_018",
+          "source_panel": "PANEL_008",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "वह खाली निगाहों से सामने देखता रहा।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, blank empty stare forward, dazed, dim room, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        }
+      ]
+    },
+    {
+      "scene_id": "SCENE_02",
+      "scene_title": "नई पहचान और दो जीवनों की स्मृतियाँ",
+      "panels": [
+        {
+          "panel_id": "PANEL_019",
+          "source_panel": "PANEL_009",
+          "voice": [
+            {
+              "speaker": "छोटी बुआ",
+              "text": "“तुम अभी थोड़ी देर आराम करो।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "मैं जाकर दादाजी को बताती हूँ कि तुम जाग गए हो।”\nयुवती ने जल्दी-जल्दी कहा—\n“आज तुम्हारा बहुत बड़ा दिन है!"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, 1girl, girl long black hair, light blue hanfu rising from bedside excitedly, speaking fast, boy short black hair, red robe sitting on bed, bedroom, red wedding banner",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.57
+        },
+        {
+          "panel_id": "PANEL_020",
+          "source_panel": "PANEL_009",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "जब तुम बेहोश हुए थे, तब तुम्हारे दादाजी तो लगभग पागल हो गए थे।"
+            }
+          ],
+          "image_prompt": "wide shot, frantic elderly man with white hair and grey beard, dark red robe, dragging old physician with white beard into bedroom, boy unconscious on bed, panic, lantern light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.15
+        },
+        {
+          "panel_id": "PANEL_021",
+          "source_panel": "PANEL_010",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "वे खुद **वैद्य सोमेश्वर** को तुम्हें देखने के लिए लेकर आए थे।”\nयुवती इतनी जल्दी में थी कि उसने रुद्रांश की असामान्य अवस्था पर ध्यान ही नहीं दिया।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, 1girl, hurried girl long black hair, light blue hanfu talking fast, not noticing boy short black hair, red robe sitting dazed on bed, bedroom, red wedding banner",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.71
+        },
+        {
+          "panel_id": "PANEL_022",
+          "source_panel": "PANEL_010",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसने उसके कंधों को हल्के से दबाकर उसे दोबारा बिस्तर पर लेटने का संकेत दिया और तेजी से कमरे से बाहर चली गई।"
+            }
+          ],
+          "image_prompt": "from behind, teenage girl, long black hair, silver hairpin, light blue hanfu hurrying out through wooden door, hem flowing, boy sitting on bed in background, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "from behind",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.45
+        },
+        {
+          "panel_id": "PANEL_023",
+          "source_panel": "PANEL_011",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "दरवाजा बंद होते ही...\nरुद्रांश बिस्तर पर सीधा बैठ गया।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "उसने दोनों हाथों से अपना सिर पकड़ लिया।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe sitting upright alone on bed clutching head with both hands, closed wooden door behind, dim room, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.94
+        },
+        {
+          "panel_id": "PANEL_024",
+          "source_panel": "PANEL_011",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "**यह कौन-सी जगह है...?**\nउसकी आँखों के सामने एक के बाद एक स्मृतियाँ चमकने लगीं।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy holding head, eyes wide in pain, glowing memory fragments floating around him, misty chasm, battle scenes, surreal double exposure, dim room",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.5
+        },
+        {
+          "panel_id": "PANEL_025",
+          "source_panel": "PANEL_012",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "यह **सप्त साम्राज्यों** में से एक विशाल साम्राज्य के सुदूर पूर्व में स्थित नगर था—\n**मेघनगर।**"
+            }
+          ],
+          "image_prompt": "extreme wide shot, ancient chinese city Meghnagar at dawn, curved tiled roofs, stone walls, far mountains, drifting mist, no humans",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.57
+        },
+        {
+          "panel_id": "PANEL_026",
+          "source_panel": "PANEL_012",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और वह...\n**रुद्रांश** ही था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe standing by window, calm determined, ancient mansion courtyard outside, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_027",
+          "source_panel": "PANEL_013",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "वह **अग्निकुल** के पाँचवें ज्येष्ठ का एकमात्र पौत्र था।"
+            }
+          ],
+          "image_prompt": "wide shot, grand fire clan mansion, red and gold tiled roofs, huge gate with flame crest, stone courtyard, flame banners, dawn mist, no humans",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_028",
+          "source_panel": "PANEL_013",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और उसकी आयु अभी सोलह वर्ष हुई थी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "यही...\nउसकी वर्तमान पहचान थी।"
+            }
+          ],
+          "image_prompt": "portrait, 1boy, teenager, short black hair, black eyes, red wedding robe, standing in mansion courtyard, flame banners behind, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "portrait",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_029",
+          "source_panel": "PANEL_014",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन तभी...\nउसके मस्तिष्क में दो अलग-अलग जीवनों की स्मृतियाँ आपस में टकरा गईं।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy holding head in pain, split screen overlapping memories, left red wedding room, right misty blue mountains, surreal",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.35
+        },
+        {
+          "panel_id": "PANEL_030",
+          "source_panel": "PANEL_014",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "एक ओर उसके वर्तमान जीवन की स्मृतियाँ थीं।"
+            }
+          ],
+          "image_prompt": "wide shot, little black haired boy playing in courtyard, mansion, elders watching, warm golden light, soft focus, memory montage",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_031",
+          "source_panel": "PANEL_014",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और दूसरी ओर...\n**नीलमेघ महाद्वीप में बिताए गए लगभग चौबीस वर्षों की स्मृतियाँ।**\nरुद्रांश कुछ समय के लिए पूरी तरह भ्रमित हो गया।"
+            }
+          ],
+          "image_prompt": "wide shot, young man in black robe on floating mountains, blue clouds, battles, years of struggle, cool blue tones, memory montage",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 3.78
+        },
+        {
+          "panel_id": "PANEL_032",
+          "source_panel": "PANEL_015",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "**अगर मैं रुद्रांश हूँ... तो फिर मेरे पास नीलमेघ महाद्वीप की स्मृतियाँ क्यों हैं?**\n**क्या ऐसा इसलिए है क्योंकि नीलमेघ महाद्वीप में मेरी मृत्यु के बाद मेरी आत्मा इस शरीर में आ गई?**\n“नहीं...!”\nरुद्रांश ने तुरंत अपने मन में इस विचार को नकार दिया।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, shaking head in denial, eyes closed, clenched jaw, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 7.65
+        },
+        {
+          "panel_id": "PANEL_033",
+          "source_panel": "PANEL_015",
+          "voice": [
+            {
+              "speaker": "रुद्रांश",
+              "text": "“मैं स्पष्ट रूप से रुद्रांश ही हूँ!”\nयह कमरा उसके लिए पूरी तरह परिचित था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe looking around familiar bedroom, wooden desk, bookshelf, resolute eyes, paper window dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.28
+        },
+        {
+          "panel_id": "PANEL_034",
+          "source_panel": "PANEL_015",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसे अपने बचपन की हर घटना स्पष्ट रूप से याद थी।"
+            }
+          ],
+          "image_prompt": "wide shot, small boy with black hair playing under plum tree in courtyard, elder holding his hand, golden light, soft focus",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_035",
+          "source_panel": "PANEL_016",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसके बचपन की हर स्मृति उसकी अपनी थी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "उसे किसी दूसरे व्यक्ति की स्मृतियाँ चुराने की आवश्यकता ही नहीं थी।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, staring forward thoughtful, childhood memories fading behind him, soft warm glow",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.06
+        },
+        {
+          "panel_id": "PANEL_036",
+          "source_panel": "PANEL_016",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "फिर...\n**क्या नीलमेघ महाद्वीप का मेरा पूरा जीवन केवल एक सपना था?**\n**क्या मेघांत खाई से छलांग लगाने के बाद ही मैं वास्तव में जागा हूँ?**\nलेकिन नहीं...\nनीलमेघ महाद्वीप में बिताए गए वे चौबीस वर्ष उसके लिए बिल्कुल वास्तविक थे।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe sitting on bed, translucent ghost image of young man, black hair, black eyes, torn black robe at cliff edge above him, faint green glow, solemn",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 6.7
+        },
+        {
+          "panel_id": "PANEL_037",
+          "source_panel": "PANEL_017",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उस प्रेम...\nउस घृणा...\nउस दर्द...\nउस संघर्ष...\nउन सबकी स्मृतियाँ इतनी स्पष्ट थीं जैसे वे कल ही हुई हों।"
+            }
+          ],
+          "image_prompt": "wide shot, young man in black robe fighting, embracing a woman, bleeding, tears, blue grey misty continent, vivid, emotional, memory montage",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 3.13
+        },
+        {
+          "panel_id": "PANEL_038",
+          "source_panel": "PANEL_017",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "वे चौबीस वर्ष केवल एक सपना कैसे हो सकते थे?"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "**आखिर हो क्या रहा है...?**\nरुद्रांश...\nवर्तमान रुद्रांश...\nकाफी देर तक शांत बैठा रहा।"
+            }
+          ],
+          "image_prompt": "wide shot, 1boy, teenager, short black hair, black eyes, red wedding robe sitting perfectly still on bed, long silence, dim room, thin dawn light from window",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.91
+        },
+        {
+          "panel_id": "PANEL_039",
+          "source_panel": "PANEL_018",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "धीरे-धीरे उसकी साँसें सामान्य हुईं और उसने अपने विचारों को व्यवस्थित करना शुरू किया।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe sitting cross-legged on bed, eyes closed, calm breathing, hands on knees, faint dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.75
+        },
+        {
+          "panel_id": "PANEL_040",
+          "source_panel": "PANEL_018",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अभी सुबह का समय था।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "आकाश पूरी तरह उजला भी नहीं हुआ था।"
+            }
+          ],
+          "image_prompt": "view through window, ancient chinese courtyard, dim pre-dawn sky, pale blue and orange horizon, lanterns still lit, rooftops, quiet, no humans",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "view through window",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        }
+      ]
+    },
+    {
+      "scene_id": "SCENE_03",
+      "scene_title": "हृदयघात विष का रहस्य",
+      "panels": [
+        {
+          "panel_id": "PANEL_041",
+          "source_panel": "PANEL_019",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और आज...\nउसका और **चंद्रिका** का विवाह होने वाला था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe sitting on edge of bed looking down at his red wedding robe, thoughtful, bedroom, red wedding banner, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_042",
+          "source_panel": "PANEL_019",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लगभग दो घंटे पहले उसकी छोटी बुआ ने उसे जगाया था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, 1girl, girl long black hair, light blue hanfu gently waking sleeping boy, bedside, early light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_043",
+          "source_panel": "PANEL_019",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसे लाल विवाह-वस्त्र पहनाए गए थे।"
+            }
+          ],
+          "image_prompt": "medium shot, two maids dressing boy in red wedding robe with gold embroidery, boy standing arms spread, bedroom, lantern light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_044",
+          "source_panel": "PANEL_020",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसने अपनी छोटी बुआ द्वारा स्वयं बनाया गया दलिया खाया था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, 1girl, smiling girl long black hair, light blue hanfu handing steaming porridge bowl to boy sitting on bed, morning",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_045",
+          "source_panel": "PANEL_020",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन उसके बाद...\nउसके शरीर की सारी शक्ति अचानक समाप्त हो गई थी।"
+            }
+          ],
+          "image_prompt": "close-up, boy's trembling hand dropping spoon, bowl tipping, pale face, strength leaving body, blurred vision",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.12
+        },
+        {
+          "panel_id": "PANEL_046",
+          "source_panel": "PANEL_020",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसके बाद क्या हुआ...\nउसे कुछ भी याद नहीं था।"
+            }
+          ],
+          "image_prompt": "close-up, boy's eyes closing, falling backward onto bed, fading to black, dark vignette",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_047",
+          "source_panel": "PANEL_021",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और अब...\nवह यहाँ जागा था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe sitting alone on bed looking at empty porcelain bowl on bedside table, bedroom, red wedding banner, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_048",
+          "source_panel": "PANEL_021",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "तभी उसके होंठों के पास से एक अजीब-सी गंध आई।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश के होंठ हल्के से सिकुड़ गए।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy face, short black hair, sniffing, lips slightly tightened, suspicious narrowed eyes, faint odd vapor near lips, dim light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.93
+        },
+        {
+          "panel_id": "PANEL_049",
+          "source_panel": "PANEL_022",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसका चेहरा अचानक गंभीर हो गया।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, face suddenly grave, sharp eyes, furrowed brow, shadow across face, dramatic dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_050",
+          "source_panel": "PANEL_022",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "**यह... हृदयघात विष है!**\nनीलमेघ महाद्वीप में बिताए वर्षों के दौरान उसके शरीर के भीतर **विषमेघ मणि** मौजूद थी।"
+            }
+          ],
+          "image_prompt": "close-up, glowing jade-green pearl inside a young man's chest, green veins of light, silhouette, dark background",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 3.14
+        },
+        {
+          "panel_id": "PANEL_051",
+          "source_panel": "PANEL_023",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसके कारण रुद्रांश ने संसार में मौजूद लगभग हर प्रकार के विष का अध्ययन किया था।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "ऐसा कोई विष नहीं था, जिसे वह पहचान न सकता हो।"
+            }
+          ],
+          "image_prompt": "wide shot, young man, black hair, black eyes, torn black robe studying shelves of poison jars, scrolls and vials, dim stone room, green candlelight",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 4.35
+        },
+        {
+          "panel_id": "PANEL_052",
+          "source_panel": "PANEL_023",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "सिर्फ उसकी हल्की-सी गंध से ही वह किसी विष का नाम और उसका प्रभाव बता सकता था।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, smelling a bowl with eyes closed, calm knowing expression, steam, dim light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.69
+        },
+        {
+          "panel_id": "PANEL_053",
+          "source_panel": "PANEL_023",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और विषमेघ मणि के कारण...\nउसका शरीर लगभग हर विष के प्रति प्रतिरोधी बन चुका था।"
+            }
+          ],
+          "image_prompt": "bust shot, 1boy, teenager, short black hair, black eyes, red wedding robe, faint green aura around body, poison mist dispersing away, dark background",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "bust shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.72
+        },
+        {
+          "panel_id": "PANEL_054",
+          "source_panel": "PANEL_024",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "चाहे विष कितना भी घातक क्यों न हो...\nवह उसे आसानी से नुकसान नहीं पहुँचा सकता था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe sitting on bed, cold confident smile, faint green glow in hand, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.49
+        },
+        {
+          "panel_id": "PANEL_055",
+          "source_panel": "PANEL_024",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "**हृदयघात विष** एक विशेष प्रकार की औषधीय घास और रक्तचिह्नित जामुन-वृक्ष की बैंगनी छाल को मिलाकर तैयार किया जाता था।"
+            }
+          ],
+          "image_prompt": "still life, medicinal grass bundle and purple bark of blood-marked jamun tree, mortar and pestle, wooden table, ancient apothecary, moody light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "still life",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.59
+        },
+        {
+          "panel_id": "PANEL_056",
+          "source_panel": "PANEL_025",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "यदि इसे पानी में घोल दिया जाए तो यह पूरी तरह रंगहीन और गंधहीन हो जाता था।"
+            }
+          ],
+          "image_prompt": "extreme close-up, clear water in porcelain bowl, a drop dissolving invisibly, ripples, colorless, light reflections",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.54
+        },
+        {
+          "panel_id": "PANEL_057",
+          "source_panel": "PANEL_025",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "विष शरीर में प्रवेश करने के लगभग दस साँसों के भीतर व्यक्ति की जान ले सकता था।"
+            }
+          ],
+          "image_prompt": "close-up, pale hand clutching chest, fading breath mist, dark dramatic shadow",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.68
+        },
+        {
+          "panel_id": "PANEL_058",
+          "source_panel": "PANEL_025",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और सबसे भयानक बात...\nमृत्यु का कोई स्पष्ट कारण दिखाई नहीं देता था।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, lying lifeless in bed, calm face, eyes closed, no wounds, bedroom, red wedding banner, cold light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.3
+        },
+        {
+          "panel_id": "PANEL_059",
+          "source_panel": "PANEL_026",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "इसीलिए इसे एक ऐसा विष माना जाता था, जिसका कोई निशान नहीं छोड़ा जा सकता।"
+            }
+          ],
+          "image_prompt": "still life, empty porcelain bowl on lacquer tray, faint dark residue, cold light, ominous",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "still life",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.47
+        },
+        {
+          "panel_id": "PANEL_060",
+          "source_panel": "PANEL_026",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश की आँखें धीरे-धीरे ठंडी पड़ गईं।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "उसे तुरंत समझ आ गया कि क्या हुआ था।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, cold calculating eyes, faint cold smile, half face in shadow, dim light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.65
+        },
+        {
+          "panel_id": "PANEL_061",
+          "source_panel": "PANEL_027",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "वास्तव में...\nवह बेहोश नहीं हुआ था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe lying motionless on bed, eyes closed, pale, porridge bowl spilled on floor, bedroom, red wedding banner",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_062",
+          "source_panel": "PANEL_027",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसने हृदयघात विष मिला हुआ दलिया पिया था और उसके बाद उसकी मृत्यु हो गई थी।"
+            }
+          ],
+          "image_prompt": "close-up, limp hand hanging from bed edge, bowl rolling on floor, spilled porridge, dark room, lifeless",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.49
+        }
+      ]
+    },
+    {
+      "scene_id": "SCENE_04",
+      "scene_title": "विषमेघ मणि का पुनः प्रकट होना",
+      "panels": [
+        {
+          "panel_id": "PANEL_063",
+          "source_panel": "PANEL_028",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "वह नीलमेघ महाद्वीप में जन्मा था।"
+            }
+          ],
+          "image_prompt": "extreme wide shot, Neelmegh continent, blue clouds, floating mountains, misty highlands, epic fantasy sunrise, no humans",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_064",
+          "source_panel": "PANEL_028",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "फिर उसने मेघांत खाई से छलांग लगाई...\nऔर उसके बाद उसकी आत्मा इस संसार में एक मृत शरीर के भीतर पुनर्जन्म ले चुकी थी।"
+            }
+          ],
+          "image_prompt": "glowing soul drifting upward from cliff into light then descending into dim bedroom, green light trail, ethereal, surreal",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "glowing soul drifting upward from cliff into light then descending into dim bedroom",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.59
+        },
+        {
+          "panel_id": "PANEL_065",
+          "source_panel": "PANEL_028",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अगर कोई दूसरा व्यक्ति यह कहानी सुनता...\nतो शायद उसे यह किसी अविश्वसनीय कल्पना जैसी लगती।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe sitting on bed, wry disbelieving smile, shaking head slightly, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.77
+        },
+        {
+          "panel_id": "PANEL_066",
+          "source_panel": "PANEL_029",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन इस समय रुद्रांश के पास यही एकमात्र तर्क था।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, chin on hand, thinking seriously, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_067",
+          "source_panel": "PANEL_029",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अचानक उसके मन में एक और सवाल उठा।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "**एक मिनट...**\nअगर ऐसा ही हुआ है...\nतो इस शरीर में विषों से बचने की कोई क्षमता नहीं होनी चाहिए।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, eyes suddenly widening, finger raised, realization, window dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.4
+        },
+        {
+          "panel_id": "PANEL_068",
+          "source_panel": "PANEL_030",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "फिर जिस व्यक्ति के शरीर की मृत्यु कुछ ही समय पहले हुई थी...\nवह हृदयघात विष से कैसे बच गया?"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe touching his chest, confused, sitting on bed, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.0
+        },
+        {
+          "panel_id": "PANEL_069",
+          "source_panel": "PANEL_030",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "तभी...\nउसकी बाईं हथेली में एक अजीब-सी अनुभूति हुई।"
+            }
+          ],
+          "image_prompt": "close-up, open left palm, faint green shimmer, tingling sensation, dim light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_070",
+          "source_panel": "PANEL_030",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश ने अपनी बाईं हथेली उठाई।"
+            }
+          ],
+          "image_prompt": "over the shoulder, 1boy, teenager, short black hair, black eyes, red wedding robe slowly raising left hand in front of face, palm toward him, red sleeve, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "over the shoulder",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_071",
+          "source_panel": "PANEL_031",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसकी आँखें अचानक फैल गईं।"
+            }
+          ],
+          "image_prompt": "extreme close-up, 1boy eyes wide, green reflection in black pupils, shocked",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_072",
+          "source_panel": "PANEL_031",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसकी हथेली पर एक गोलाकार हरे रंग का निशान बना हुआ था।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "उसका आकार...\nउसका रंग...\nउसका आकार...\nसब कुछ बिल्कुल वैसा ही था...\nजैसा **विषमेघ मणि** का था!"
+            }
+          ],
+          "image_prompt": "extreme close-up, left palm with circular jade-green pearl-shaped mark, faint glow, fingers slightly curled, dark background",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.64
+        },
+        {
+          "panel_id": "PANEL_073",
+          "source_panel": "PANEL_032",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "मेघांत खाई से छलांग लगाने से पहले उसने अपनी जान बचाने या किसी परिणाम की चिंता किए बिना विषमेघ मणि को निगल लिया था।"
+            }
+          ],
+          "image_prompt": "from behind, young man in torn black robe at cliff edge swallowing glowing green pearl, wind, mist, crazed determined eyes, night",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "from behind",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 3.84
+        },
+        {
+          "panel_id": "PANEL_074",
+          "source_panel": "PANEL_033",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसे नहीं पता था कि ऐसा करने के बाद क्या होगा।"
+            }
+          ],
+          "image_prompt": "wide shot, young man in black robe falling through misty chasm, green glow inside chest, wind, dark",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_075",
+          "source_panel": "PANEL_033",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन उसकी हथेली पर बना यह निशान...\nअविश्वसनीय रूप से...\n**विषमेघ मणि ही था।**\nवह उसके साथ इस संसार में आ गई थी।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, staring in awe at left palm with glowing green circular mark, green light on face",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.88
+        },
+        {
+          "panel_id": "PANEL_076",
+          "source_panel": "PANEL_034",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "बल्कि ऐसा लग रहा था जैसे वह अब उसके शरीर का ही एक हिस्सा बन चुकी हो।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश ने मंत्रमुग्ध होकर अपनी हथेली पर बने हरे निशान को देखा।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, staring entranced at left palm, green circular mark, soft green glow on face, dim room",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.46
+        },
+        {
+          "panel_id": "PANEL_077",
+          "source_panel": "PANEL_034",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसके होंठों से धीरे से एक शब्द निकला—\n“विषमेघ मणि...”\nजैसे ही उसकी आवाज समाप्त हुई...\nउसकी हथेली पर बना हरा निशान अचानक चमक उठा।"
+            }
+          ],
+          "image_prompt": "extreme close-up, circular green mark on palm flashing brightly, green light burst, lips whispering",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.33
+        },
+        {
+          "panel_id": "PANEL_078",
+          "source_panel": "PANEL_034",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "एक तेज हरी रोशनी पूरे कमरे में फैल गई।"
+            }
+          ],
+          "image_prompt": "wide shot, intense jade-green light flooding the bedroom, 1boy, teenager, short black hair, black eyes, red wedding robe sitting on bed center, green rays through windows, dramatic glow",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_079",
+          "source_panel": "PANEL_035",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अगले ही क्षण रुद्रांश को हल्का चक्कर महसूस हुआ।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "उसने अनजाने में अपनी आँखें बंद कर लीं।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, dizzy, eyes shutting, hand on forehead, green light on face",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.75
+        },
+        {
+          "panel_id": "PANEL_080",
+          "source_panel": "PANEL_035",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "जब उसने दोबारा आँखें खोलीं...\nउसके सामने की पूरी दुनिया हरे रंग से भर चुकी थी।"
+            }
+          ],
+          "image_prompt": "POV, entire view bathed in jade-green light, glowing green space, bright, ethereal, no horizon",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "POV",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.53
+        }
+      ]
+    },
+    {
+      "scene_id": "SCENE_05",
+      "scene_title": "विषमेघ मणि के भीतर का संसार",
+      "panels": [
+        {
+          "panel_id": "PANEL_081",
+          "source_panel": "PANEL_036",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "यह हरे प्रकाश से भरी एक विशाल और खुली दुनिया थी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "दूर-दूर तक इसकी कोई सीमा दिखाई नहीं दे रही थी।"
+            }
+          ],
+          "image_prompt": "extreme wide shot, vast boundless green world, jade-green light, endless misty meadow, glowing air, no horizon, tiny figure of 1boy in red robe",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.41
+        },
+        {
+          "panel_id": "PANEL_082",
+          "source_panel": "PANEL_036",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "पूरे स्थान में विषमेघ मणि की हल्की-सी ऊर्जा फैली हुई थी।"
+            }
+          ],
+          "image_prompt": "close-up, floating green energy motes, jade-green mist, glowing particles, ethereal, vast empty space, no humans",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.03
+        },
+        {
+          "panel_id": "PANEL_083",
+          "source_panel": "PANEL_037",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश काफी देर तक स्तब्ध खड़ा रहा।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe, standing motionless, stunned, jade-green mist at feet, glowing green space",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_084",
+          "source_panel": "PANEL_037",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "फिर...\nउसे समझ आया।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "**वह विषमेघ मणि के भीतर मौजूद संसार में प्रवेश कर चुका था।**\nकौन सोच सकता था कि विषमेघ मणि के भीतर इतना विशाल संसार छिपा हुआ होगा?"
+            }
+          ],
+          "image_prompt": "wide shot from behind, 1boy in red robe standing, facing endless green world, arms slightly open, awe, glowing mist",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot from behind",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.87
+        },
+        {
+          "panel_id": "PANEL_085",
+          "source_panel": "PANEL_038",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और इससे भी अधिक अविश्वसनीय बात यह थी कि उसने परिणामों की परवाह किए बिना विषमेघ मणि को निगल लिया था...\nऔर वह मणि उसके साथ इस संसार में आ गई थी।"
+            }
+          ],
+          "image_prompt": "close-up, translucent boy's chest silhouette, glowing green pearl inside body, jade light, dark background, mystical",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 5.12
+        },
+        {
+          "panel_id": "PANEL_086",
+          "source_panel": "PANEL_039",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "बल्कि...\nऐसा लग रहा था जैसे वह उसके शरीर का ही हिस्सा बन चुकी हो।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश ने चारों ओर देखा।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe, slowly looking around, jade-green world, thoughtful",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.87
+        },
+        {
+          "panel_id": "PANEL_087",
+          "source_panel": "PANEL_039",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "**अगर यहाँ प्रवेश करने का रास्ता है...**\n**तो बाहर निकलने का रास्ता भी अवश्य होगा।**\nउसने अपनी आँखें बंद कीं और अपने विचारों को केंद्रित किया।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, eyes closed, concentrating, calm face, green light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.49
+        },
+        {
+          "panel_id": "PANEL_088",
+          "source_panel": "PANEL_040",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अचानक...\nहरे रंग से भरी पूरी दुनिया तेजी से विलीन होने लगी।"
+            }
+          ],
+          "image_prompt": "swirling glowing green particles dissolving, green world fading, boy silhouette dissolving, light fading",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "swirling glowing green particles dissolving",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_089",
+          "source_panel": "PANEL_040",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अगले ही क्षण जब रुद्रांश ने आँखें खोलीं...\nउसके सामने फिर वही परिचित कमरा था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe opening eyes in familiar bedroom, sitting on bed, bedroom, red wedding banner, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.49
+        },
+        {
+          "panel_id": "PANEL_090",
+          "source_panel": "PANEL_040",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसने अपनी हथेली पर बने हल्के हरे निशान को देखा।"
+            }
+          ],
+          "image_prompt": "close-up, left palm with faint pale green mark, fading glow, 1boy, teenager, short black hair, black eyes, red wedding robe, eyes looking at it, shallow depth of field",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_091",
+          "source_panel": "PANEL_041",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसके होंठों पर धीरे-धीरे मुस्कान फैल गई।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, smile slowly spreading, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_092",
+          "source_panel": "PANEL_041",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसे अभी तक समझ नहीं आया था कि उसके साथ ऐसा चमत्कार कैसे हुआ।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन...\nवह न केवल पुनर्जन्म ले चुका था...\nबल्कि अपने दोनों जीवनों की स्मृतियाँ भी अपने साथ लेकर आया था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe, sitting on bed, calm confident smile, looking through window, golden sunrise, warm tone",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 5.4
+        },
+        {
+          "panel_id": "PANEL_093",
+          "source_panel": "PANEL_042",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "शायद...\nदेवता भी उसके दोनों जीवनों के दुखों को सहन नहीं कर सके थे।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "शायद उन्होंने उस पर दया की थी...\nऔर उसे एक बार फिर जीवन जीने का अवसर दिया था।"
+            }
+          ],
+          "image_prompt": "view through window, golden sunrise over ancient mansion rooftops, beams of heavenly light through clouds, mist, serene, no humans",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "view through window",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.64
+        },
+        {
+          "panel_id": "PANEL_094",
+          "source_panel": "PANEL_042",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "नीलमेघ महाद्वीप में रुद्रांश अनगिनत शक्तिशाली लोगों की साजिश और उत्पीड़न का शिकार हुआ था।"
+            }
+          ],
+          "image_prompt": "wide shot, young man, black hair, black eyes, torn black robe surrounded by many powerful cultivators in dark robes, encircling, glaring, weapons raised, bleeding, stormy dark sky",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.88
+        }
+      ]
+    },
+    {
+      "scene_id": "SCENE_06",
+      "scene_title": "अग्निकुल और कमजोर शरीर",
+      "panels": [
+        {
+          "panel_id": "PANEL_095",
+          "source_panel": "PANEL_043",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अंत में उसकी मृत्यु अवश्य हुई...\nलेकिन मरने से पहले उसने अकेले ही पूरी दुनिया को हिला दिया था।"
+            }
+          ],
+          "image_prompt": "wide shot, lone young man, black hair, black eyes, torn black robe standing amid ruined battlefield, shockwave, cracked earth, green energy surging, enemies thrown back, stormy sky",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.79
+        },
+        {
+          "panel_id": "PANEL_096",
+          "source_panel": "PANEL_043",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसकी शक्ति...\nउसका नाम...\nउसका अस्तित्व...\nसब कुछ इतना भयानक था कि अनगिनत शक्तिशाली लोग उससे डरते थे।"
+            }
+          ],
+          "image_prompt": "low angle, towering silhouette with glowing green eyes above crowd of terrified kneeling cultivators, dark clouds",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "low angle",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.99
+        },
+        {
+          "panel_id": "PANEL_097",
+          "source_panel": "PANEL_043",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन उसका वर्तमान शरीर...\nसिर्फ साधारण नहीं था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe looking at his own hands, slim weak arms, serious, bedroom, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_098",
+          "source_panel": "PANEL_044",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "सच कहें तो...\n**यह शरीर अत्यंत कमजोर था।**"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, looking at his thin frail wrist, pale, sleeve pulled up, dim light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_099",
+          "source_panel": "PANEL_044",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "इस संसार में सबसे महत्वपूर्ण चीज थी—\n**आध्यात्मिक शक्ति।**"
+            }
+          ],
+          "image_prompt": "wide shot, powerful cultivators with glowing blue and red spiritual aura in ancient training courtyard, dawn, dramatic",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_100",
+          "source_panel": "PANEL_044",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "हालाँकि रुद्रांश का जन्म **अग्निकुल** में हुआ था और वह उनके सबसे शक्तिशाली पाँचवें ज्येष्ठ **रुद्रसेन** का पौत्र था...\nफिर भी उसकी आध्यात्मिक शक्ति सोलह वर्ष की आयु में भी केवल **प्रारंभिक आध्यात्मिक स्तर की पहली अवस्था** पर थी।"
+            }
+          ],
+          "image_prompt": "wide shot, 1boy, teenager, short black hair, black eyes, red wedding robe meditating cross-legged with tiny faint white aura, large faded image of grandfather with flaming aura behind, contrast, dim room",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 6.19
+        },
+        {
+          "panel_id": "PANEL_101",
+          "source_panel": "PANEL_045",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसने सात वर्ष की उम्र में साधना शुरू की थी।"
+            }
+          ],
+          "image_prompt": "wide shot, seven year old boy with black hair meditating cross-legged in courtyard, plum tree, sunlight, determined",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_102",
+          "source_panel": "PANEL_045",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "आठ वर्ष की आयु में वह प्रारंभिक आध्यात्मिक स्तर की पहली अवस्था तक पहुँच गया था।"
+            }
+          ],
+          "image_prompt": "wide shot, eight year old boy with faint white aura meditating, proud smile, courtyard, dawn",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.69
+        },
+        {
+          "panel_id": "PANEL_103",
+          "source_panel": "PANEL_046",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन उसके बाद...\nपूरे आठ वर्षों तक उसकी शक्ति में जरा भी वृद्धि नहीं हुई।"
+            }
+          ],
+          "image_prompt": "wide shot, teenage boy meditating alone in courtyard through seasons, snow falling, same pose, no aura, lonely",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.23
+        },
+        {
+          "panel_id": "PANEL_104",
+          "source_panel": "PANEL_046",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अग्निकुल के लगभग सभी लोग उसका मजाक उड़ाते थे।"
+            }
+          ],
+          "image_prompt": "wide shot, teenage boy with black hair walking in mansion corridor, clan youths in fine robes laughing and pointing, he looks down, evening light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_105",
+          "source_panel": "PANEL_046",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "बाद में उसके दादाजी रुद्रसेन ने **मेघनगर** के सबसे प्रसिद्ध वैद्य **वैद्य सोमेश्वर** को उसके शरीर की जाँच करने के लिए बुलाया।"
+            }
+          ],
+          "image_prompt": "medium shot, elderly man, white hair, grey beard, dark red robe beside old physician, white beard, green robe, physician checking boy's wrist, study room",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 3.77
+        },
+        {
+          "panel_id": "PANEL_106",
+          "source_panel": "PANEL_047",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और परिणाम...\nचौंकाने वाला था।"
+            }
+          ],
+          "image_prompt": "close-up, old physician with white beard, shocked wide eyes, fingers on wrist, dim study, lantern",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "FLASHBACK",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_107",
+          "source_panel": "PANEL_047",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश की आध्यात्मिक नाड़ियाँ जन्म से ही क्षतिग्रस्त थीं।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "क्षति इतनी गंभीर थी कि उन्हें ठीक करना लगभग असंभव था।"
+            }
+          ],
+          "image_prompt": "glowing human silhouette, spiritual meridians cracked and broken like shattered glowing blue lines, dark background, diagram",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "glowing human silhouette",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.18
+        },
+        {
+          "panel_id": "PANEL_108",
+          "source_panel": "PANEL_048",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "इस स्थिति में रुद्रांश की शक्ति प्रारंभिक आध्यात्मिक स्तर की पहली अवस्था पर ही रुक सकती थी।"
+            }
+          ],
+          "image_prompt": "bust shot, 1boy, teenager, short black hair, black eyes, red wedding robe, meditating, dim weak aura, chain-like glowing cracks around body, stuck, dark room",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "bust shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.0
+        },
+        {
+          "panel_id": "PANEL_109",
+          "source_panel": "PANEL_049",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "चाहे वह कितनी भी कठिन साधना करे...\nउसकी शक्ति आगे नहीं बढ़ सकती थी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "यदि वह अपनी जान की बाजी लगाकर भी साधना करता...\nतब भी पूरी जिंदगी उसकी शक्ति उसी पहली अवस्था में रहती।"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, sweating, meditating intensely, veins, clenched teeth, aura flickering, dark room",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 5.53
+        },
+        {
+          "panel_id": "PANEL_110",
+          "source_panel": "PANEL_049",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "इस प्रकार का व्यक्ति इस संसार में सबसे निम्न स्तर का अस्तित्व माना जाता था।"
+            }
+          ],
+          "image_prompt": "low angle, 1boy tiny alone at lowest step of grand stone stairs, towering cultivator silhouettes above, hierarchy, dawn",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "low angle",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.47
+        },
+        {
+          "panel_id": "PANEL_111",
+          "source_panel": "PANEL_050",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और अग्निकुल के भीतर तो वह एक मजाक बन चुका था।"
+            }
+          ],
+          "image_prompt": "wide shot, 1boy, teenager, short black hair, black eyes, red wedding robe standing alone in courtyard, clan members whispering and laughing in background, sidelong glances, evening",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_112",
+          "source_panel": "PANEL_050",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अगर उसके दादाजी रुद्रसेन अग्निकुल के सबसे शक्तिशाली व्यक्तियों में से एक न होते...\nबल्कि स्वयं पूरे मेघनगर के सबसे शक्तिशाली लोगों में से एक न माने जाते...\nतो शायद कोई उसकी ओर ध्यान भी नहीं देता।"
+            }
+          ],
+          "image_prompt": "low angle, elderly man, white hair, grey beard, dark red robe, fierce, flaming aura, standing on mansion steps, dramatic",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "low angle",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 6.1
+        },
+        {
+          "panel_id": "PANEL_113",
+          "source_panel": "PANEL_050",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "**अग्निकुल** मेघनगर के तीन सबसे बड़े आध्यात्मिक कुलों में से एक था।"
+            }
+          ],
+          "image_prompt": "extreme wide shot, three grand clan mansions in ancient chinese city, red flame banners on one, tall towers, dawn, no humans",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.1
+        },
+        {
+          "panel_id": "PANEL_114",
+          "source_panel": "PANEL_051",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसके भीतर अनगिनत शक्तिशाली योद्धा मौजूद थे।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "एक ही पीढ़ी में जन्म लेने वाले युवाओं की बड़ी संख्या के बीच...\nरुद्रांश को लगभग एक बेकार अस्तित्व माना जाता था।"
+            }
+          ],
+          "image_prompt": "wide shot, many young cultivators training in courtyard with spiritual auras, swords and fists, one weak boy in red robe at far side, contrast",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.85
+        },
+        {
+          "panel_id": "PANEL_115",
+          "source_panel": "PANEL_051",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अगर किसी दिन उसकी मृत्यु हो जाती...\nतो शायद कुछ गिने-चुने लोगों के अलावा किसी को भी फर्क नहीं पड़ता।"
+            }
+          ],
+          "image_prompt": "from behind, 1boy, teenager, short black hair, black eyes, red wedding robe walking alone down long empty corridor, lanterns, dawn, lonely",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "from behind",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.15
+        },
+        {
+          "panel_id": "PANEL_116",
+          "source_panel": "PANEL_052",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन आज...\nकिसी ने उसे मारने के लिए एक अत्यंत दुर्लभ और महँगे विष का उपयोग किया था।"
+            }
+          ],
+          "image_prompt": "still life, ornate small purple jade vial beside porridge bowl on lacquer table, ominous shadows",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "still life",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.71
+        },
+        {
+          "panel_id": "PANEL_117",
+          "source_panel": "PANEL_052",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और अब रुद्रांश पूरी तरह समझ चुका था कि ऐसा क्यों हुआ था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe standing, hands behind back, cold calm expression, understanding, window dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_118",
+          "source_panel": "PANEL_052",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "क्योंकि...\n**आज उसका विवाह था।**\nउसका विवाह **चंद्रिका** से होने वाला था।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe, standing in decorated wedding room, red banner, red lanterns, serious",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.36
+        }
+      ]
+    },
+    {
+      "scene_id": "SCENE_07",
+      "scene_title": "चंद्रिका और विवाह का रहस्य",
+      "panels": [
+        {
+          "panel_id": "PANEL_119",
+          "source_panel": "PANEL_053",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "चंद्रिका भी उसी की आयु की थी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "उसकी आयु सोलह वर्ष थी।"
+            }
+          ],
+          "image_prompt": "portrait, beautiful girl, long straight black hair, snow white skin, white and pink hanfu, gold hair ornament, sixteen years old, calm elegant, dreamlike soft glow, flower petals",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "portrait",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_120",
+          "source_panel": "PANEL_053",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन इतनी कम उम्र में ही उसकी आध्यात्मिक शक्ति **प्रारंभिक आध्यात्मिक स्तर की दसवीं अवस्था** तक पहुँच चुकी थी।"
+            }
+          ],
+          "image_prompt": "full body, beautiful girl, long straight black hair, snow white skin, white and pink hanfu, gold hair ornament meditating cross-legged, swirling white-blue spiritual aura, ten glowing rings, dreamlike",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "full body",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.4
+        },
+        {
+          "panel_id": "PANEL_121",
+          "source_panel": "PANEL_054",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "वह प्रारंभिक स्तर की सीमा को तोड़कर अगले चरण—\n**उद्गम आध्यात्मिक स्तर**\nमें प्रवेश करने वाली थी।"
+            }
+          ],
+          "image_prompt": "wide shot, beautiful girl, long straight black hair, snow white skin, white and pink hanfu, gold hair ornament on mansion rooftop, bright aura bursting upward, breakthrough, light beam to sky, hair flowing",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.07
+        },
+        {
+          "panel_id": "PANEL_122",
+          "source_panel": "PANEL_054",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अग्निकुल के इतिहास में सोलह वर्ष की आयु में इस स्तर तक पहुँचने वाली वह पहली युवती थी।"
+            }
+          ],
+          "image_prompt": "wide shot, clan elders astonished in grand hall looking at beautiful girl, long straight black hair, snow white skin, white and pink hanfu, gold hair ornament, glowing aura, ancestral scrolls on walls",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.72
+        },
+        {
+          "panel_id": "PANEL_123",
+          "source_panel": "PANEL_054",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "यहाँ तक कि ऐसी अफवाहें भी थीं कि यदि उसकी साधना इसी गति से चलती रही...\nतो आने वाले कुछ दशकों में वह अग्निकुल के इतिहास में पहली ऐसी व्यक्ति बन सकती थी जो **पृथ्वी आध्यात्मिक स्तर** तक पहुँच सके।"
+            }
+          ],
+          "image_prompt": "wide shot, beautiful girl, long straight black hair, snow white skin, white and pink hanfu, gold hair ornament on mountain peak above clouds, earth-yellow spiritual energy swirling, floating stones, wind in hair",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 6.21
+        },
+        {
+          "panel_id": "PANEL_124",
+          "source_panel": "PANEL_055",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और शायद...\nएक दिन वह उस **स्वर्गीय आध्यात्मिक स्तर** तक भी पहुँच जाए...\nजिसे पिछले कई शताब्दियों से पूरे मेघनगर में किसी ने छूने की कल्पना तक नहीं की थी।"
+            }
+          ],
+          "image_prompt": "extreme wide shot, beautiful girl, long straight black hair, snow white skin, white and pink hanfu, gold hair ornament floating high in golden sky among heavenly clouds, radiant golden aura, divine light beams, tiny city below",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.8
+        },
+        {
+          "panel_id": "PANEL_125",
+          "source_panel": "PANEL_056",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन उसकी सबसे बड़ी विशेषता केवल उसकी शक्ति नहीं थी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "वह असाधारण रूप से बुद्धिमान थी।"
+            }
+          ],
+          "image_prompt": "portrait, beautiful girl, long straight black hair, snow white skin, white and pink hanfu, gold hair ornament, calm intelligent eyes, reading ancient scroll, library, candlelight",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "portrait",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.68
+        },
+        {
+          "panel_id": "PANEL_126",
+          "source_panel": "PANEL_056",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और...\nउसकी सुंदरता भी अद्भुत थी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "पूरे मेघनगर में उसे सबसे सुंदर युवती माना जाता था।"
+            }
+          ],
+          "image_prompt": "close-up, beautiful girl, long straight black hair, snow white skin, white and pink hanfu, gold hair ornament, delicate face, soft smile, petals falling, glowing soft light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.61
+        },
+        {
+          "panel_id": "PANEL_127",
+          "source_panel": "PANEL_056",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "मेघनगर के लगभग हर योग्य युवा के मन में उसके प्रति आकर्षण था।"
+            }
+          ],
+          "image_prompt": "wide shot, young men in fine robes gazing dreamily at a girl in white and pink hanfu walking down ancient market street, daytime, blushing",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_128",
+          "source_panel": "PANEL_057",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "अगर कभी उसके परिवार की ओर से उसके लिए वर की तलाश शुरू होती...\nतो शायद विवाह के इच्छुक युवाओं की कतार नगर के दक्षिणी द्वार से लेकर उत्तरी द्वार तक पहुँच जाती।"
+            }
+          ],
+          "image_prompt": "extreme wide shot, endless line of young suitors in fine robes holding gifts along main street from south gate to far north gate, ancient chinese city, daylight",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "extreme wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 5.08
+        },
+        {
+          "panel_id": "PANEL_129",
+          "source_panel": "PANEL_057",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "ऐसी अद्वितीय सुंदरता और बुद्धिमत्ता वाली युवती...\nआज उस पीढ़ी के सबसे कमजोर और भविष्यहीन युवक से विवाह करने जा रही थी।"
+            }
+          ],
+          "image_prompt": "medium shot, 1girl, 1boy, radiant girl in white and pink hanfu beside slim ordinary boy in red wedding robe, wedding hall, red banners, contrast",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.82
+        },
+        {
+          "panel_id": "PANEL_130",
+          "source_panel": "PANEL_057",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "कितने ही युवाओं के हृदय में ईर्ष्या और क्रोध की आग जल रही होगी...\nइसकी कल्पना करना कठिन नहीं था।"
+            }
+          ],
+          "image_prompt": "group of angry jealous young men in fine robes, clenched fists, glaring in shadows, red lantern light, furious, night",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "group of angry jealous young men in fine robes",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.11
+        },
+        {
+          "panel_id": "PANEL_131",
+          "source_panel": "PANEL_058",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "यह ऐसा था मानो...\nएक चमकता हुआ कमल...\nकूड़े के ढेर पर खिला दिया गया हो।"
+            }
+          ],
+          "image_prompt": "close-up, glowing white and pink lotus blooming on a pile of rubbish, soft light, dark murky surroundings, detailed petals, symbolic",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.23
+        },
+        {
+          "panel_id": "PANEL_132",
+          "source_panel": "PANEL_058",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "चंद्रिका से एकतरफा प्रेम करने वाले युवाओं के भीतर रुद्रांश के प्रति गहरी ईर्ष्या और घृणा होना स्वाभाविक था।"
+            }
+          ],
+          "image_prompt": "close-up, jealous young man in blue robe, hateful glare, clenched teeth, dark background, red light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.37
+        },
+        {
+          "panel_id": "PANEL_133",
+          "source_panel": "PANEL_059",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उनमें से कई लोग इस विवाह को स्वीकार करने के लिए तैयार नहीं थे।"
+            }
+          ],
+          "image_prompt": "wide shot, tea house interior, young men in fine robes arguing angrily, one slamming table, wooden room, lanterns, tense",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "wide shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.28
+        },
+        {
+          "panel_id": "PANEL_134",
+          "source_panel": "PANEL_059",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "और कुछ तो इतने पागल हो चुके थे कि उसे विष देकर मारने तक का प्रयास कर बैठे।"
+            }
+          ],
+          "image_prompt": "silhouette of hooded figure sprinkling powder into a bowl in dim kitchen, steam, candle, sinister shadows",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "silhouette of hooded figure sprinkling powder into a bowl in dim kitchen",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.73
+        },
+        {
+          "panel_id": "PANEL_135",
+          "source_panel": "PANEL_059",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "रुद्रांश ने इन सभी बातों के बारे में सोचा।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe standing by window, arms crossed, cold calm, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_136",
+          "source_panel": "PANEL_060",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "उसे अब यह स्थिति बिल्कुल भी अजीब नहीं लग रही थी।"
+            },
+            {
+              "speaker": "NARRATOR",
+              "text": "उसने धीरे से बिस्तर से उतरते हुए कहा—\n“औरतें सच में मुसीबतों की जड़ होती हैं।”\nवह खड़ा हो गया।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe stepping off bed onto wooden floor, wry smirk, standing up, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 4.1
+        },
+        {
+          "panel_id": "PANEL_137",
+          "source_panel": "PANEL_060",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "लेकिन जैसे ही उसके मन में चंद्रिका का वह चेहरा आया, जिसकी सुंदरता पूरे नगर को मोहित कर सकती थी...\nउसके होंठों पर मुस्कान आ गई।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe, faint smile, dreamy glowing bubble of beautiful girl portrait beside his head, dawn light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.63
+        },
+        {
+          "panel_id": "PANEL_138",
+          "source_panel": "PANEL_060",
+          "voice": [
+            {
+              "speaker": "NARRATOR",
+              "text": "वह खुलकर हँस पड़ा।"
+            }
+          ],
+          "image_prompt": "medium shot, 1boy, teenager, short black hair, black eyes, red wedding robe, laughing openly, head tilted back, bright smile, golden sunrise light",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "medium shot",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 2.0
+        },
+        {
+          "panel_id": "PANEL_139",
+          "source_panel": "PANEL_060",
+          "voice": [
+            {
+              "speaker": "रुद्रांश",
+              "text": "“फिर भी...”\nउसकी आँखों में पहली बार हल्की चमक दिखाई दी।"
+            },
+            {
+              "speaker": "रुद्रांश",
+              "text": "“ऐसी दुल्हन से विवाह होना...”\n“शायद यह मेरे नए जीवन की एक अच्छी शुरुआत है।”"
+            }
+          ],
+          "image_prompt": "close-up, 1boy, teenager, short black hair, black eyes, red wedding robe, confident smile, gleam in black eyes, golden sunrise on face, hopeful",
+          "negative_prompt": "worst quality, low quality, lowres, blurry, bad anatomy, bad hands, extra fingers, deformed face, duplicate, text, watermark, modern clothes, modern furniture, 3d, chibi",
+          "camera": "close-up",
+          "motion": [
+            "subtle breathing and cloth movement"
+          ],
+          "visual_effects": [],
+          "scene_type": "PRESENT",
+          "duration": 3.75
+        }
+      ]
+    }
+  ],
+  "memory": {
+    "characters": {
+      "rudransh": {
+        "name": "रुद्रांश",
+        "appearance": "1boy, teenager, short black hair, black eyes, red wedding robe"
+      },
+      "chhoti_bua": {
+        "name": "छोटी बुआ",
+        "appearance": "teenage girl, long black hair, silver hairpin, light blue hanfu"
+      },
+      "chandrika": {
+        "name": "चंद्रिका",
+        "appearance": "beautiful girl, long straight black hair, snow white skin, white and pink hanfu, gold hair ornament"
+      },
+      "rudrasen": {
+        "name": "रुद्रसेन",
+        "appearance": "elderly man, white hair, grey beard, dark red robe"
+      },
+      "someshwar": {
+        "name": "वैद्य सोमेश्वर",
+        "appearance": "old physician, white beard, green robe"
+      }
+    },
+    "locations": {},
+    "objects": {}
+  }
+}

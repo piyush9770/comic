@@ -1,0 +1,15 @@
+{
+  "name": "comic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "comic_prompt_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.4"
+  }
+}

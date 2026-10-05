@@ -1,0 +1,38 @@
+# Python Virtual Environment
+.venv/
+venv/
+env/
+image_generator/venv/
+
+# Heavy AI Models & Weights (GitHub 100MB File Limit)
+*.safetensors
+*.ckpt
+*.pth
+*.bin
+*.onnx
+*.gguf
+models/
+image_generator/models/
+image_generator/models/*
+
+# Heavy Media Outputs (Generated Video, Audio, Images)
+outputs/
+image_generator/outputs/
+output_edge/
+_ffmpeg_work/
+*.mp4
+*.srt
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.wav
+
+# Node Modules & Dependencies
+node_modules/
+
+# Python Cache & Config
+__pycache__/
+*.pyc
+.env
+.DS_Store
